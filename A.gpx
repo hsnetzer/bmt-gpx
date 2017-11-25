@@ -3,8 +3,8 @@
 <metadata>
 <bounds minlat="34.62669135" minlon="-84.52926690" maxlat="35.07732310" maxlon="-84.12392799"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-29T23:03:35.030Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.78265005" lon="-84.28953830">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:48:37.624Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.91930841" lon="-84.51925331">
 </active_point>
 </extensions>
 </metadata>
@@ -38,10 +38,11 @@
 <ele>829.220</ele>
 <time>2012-01-16T14:49:33Z</time>
 <name>WatsonGap</name>
-<sym>Dropoff</sym>
-<type>Gap</type>
+<desc>Foster Branch Rd/CR 187.</desc>
+<sym>Car</sym>
+<type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T22:40:07.933Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:36:48.791Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WatsonGap</label_text>
 </label>
@@ -73,16 +74,16 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="35.03704292" lon="-84.50301536">
+<wpt lat="35.03696791" lon="-84.50332650">
 <ele>571.801</ele>
 <time>2012-01-16T14:59:48Z</time>
-<name>WForkRoughCr</name>
+<name>WForkRoughCreek</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:08:21.742Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T22:55:14.286Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>WForkRoughCr</label_text>
+<label_text>WForkRoughCreek</label_text>
 </label>
 </extensions>
 </wpt>
@@ -165,14 +166,14 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.85038181" lon="-84.50094592">
+<wpt lat="34.85040000" lon="-84.50144000">
 <ele>1082.040</ele>
 <time>2012-01-16T16:00:17Z</time>
 <name>JacksRiver</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:04:40.993Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:45:28.667Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>JacksRiver</label_text>
 </label>
@@ -202,20 +203,6 @@
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T00:58:15.256Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BMT8652</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.87056618" lon="-84.51846564">
-<ele>807.720</ele>
-<time>2012-01-16T16:03:24Z</time>
-<name>BMT6638</name>
-<desc>Stream and campsite.</desc>
-<sym>Campground</sym>
-<type>Campsite</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T00:55:08.322Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BMT6638</label_text>
 </label>
 </extensions>
 </wpt>
@@ -285,19 +272,6 @@
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T00:49:58.802Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BMT1781</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.94056160" lon="-84.52582820">
-<ele>890.930</ele>
-<time>2012-01-16T16:08:22Z</time>
-<name>SpanishOakGap</name>
-<sym>Dropoff</sym>
-<type>Gap</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T22:42:20.509Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SpanishOakGap</label_text>
 </label>
 </extensions>
 </wpt>
@@ -394,16 +368,17 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="35.03480010" lon="-84.49830000">
+<wpt lat="35.03502000" lon="-84.49803000">
 <ele>692.211</ele>
 <time>2012-01-16T14:59:12Z</time>
-<name>BMTRoughCrTr</name>
+<name>BMTRoughCreekTrail</name>
+<desc>BMT joins Rough Creek Trail No. 70.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-01-01T18:43:29.046Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T22:56:46.790Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BMTRoughCrTr</label_text>
+<label_text>BMTRoughCreekTrail</label_text>
 </label>
 </extensions>
 </wpt>
@@ -434,15 +409,14 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.88820938" lon="-84.52697328">
+<wpt lat="34.88785000" lon="-84.52702000">
 <ele>766.572</ele>
 <time>2012-01-16T16:05:50Z</time>
 <name>RichCove</name>
-<desc>Rich Cove</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T00:40:37.404Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:38:48.198Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>RichCove</label_text>
 </label>
@@ -474,17 +448,17 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.88901529" lon="-84.52573161">
-<ele>792.480</ele>
+<wpt lat="34.88898000" lon="-84.52741000">
+<ele>780.288</ele>
 <time>2012-01-16T16:06:25Z</time>
-<name>BMTPinhotiTr</name>
-<desc>Junction of the Pinhoti Trail with the BMT</desc>
+<name>BMTPinhotiTrail</name>
+<desc>Junction of the Pinhoti Trail with the BMT.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-23T21:27:10.413Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:37:49.838Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BMTPinhotiTr</label_text>
+<label_text>BMTPinhotiTrail</label_text>
 </label>
 </extensions>
 </wpt>
@@ -585,10 +559,11 @@
 <ele>1232.580</ele>
 <time>2012-01-16T14:53:35Z</time>
 <name>BMTLicklogTrail</name>
+<desc>Licklog Trail No. 65 goes E.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T00:42:12.361Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:18:20.620Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BMTLicklogTrail</label_text>
 </label>
@@ -641,23 +616,9 @@
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-01-01T18:43:55.496Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:30:12.192Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BMTJacksRiverTr</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.99769670" lon="-84.52595860">
-<ele>1230.000</ele>
-<time>2012-01-16T16:10:53Z</time>
-<name>BMT7878</name>
-<desc>Intermittent spring.</desc>
-<sym>Water Source</sym>
-<type>Water</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T00:57:36.178Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BMT7878</label_text>
 </label>
 </extensions>
 </wpt>
@@ -713,19 +674,6 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.97146129" lon="-84.52012368">
-<ele>1083.725</ele>
-<time>2012-01-16T14:51:51Z</time>
-<name>HempTop</name>
-<sym>Summit</sym>
-<type>Summit</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T22:43:42.736Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HempTop</label_text>
-</label>
-</extensions>
-</wpt>
 <wpt lat="34.81750960" lon="-84.47345270">
 <ele>813.315</ele>
 <time>2012-01-16T14:42:41Z</time>
@@ -736,19 +684,6 @@
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T22:04:20.255Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>HatleyGap</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.82922090" lon="-84.50072200">
-<ele>989.335</ele>
-<time>2012-01-16T14:44:03Z</time>
-<name>HallowayGap</name>
-<sym>Dropoff</sym>
-<type>Gap</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T22:05:06.009Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>HallowayGap</label_text>
 </label>
 </extensions>
 </wpt>
@@ -809,27 +744,27 @@
 <wpt lat="35.06726260" lon="-84.49454140">
 <ele>457.200</ele>
 <time>2012-01-16T16:18:03Z</time>
-<name>BMTFS45</name>
+<name>FS45</name>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T01:01:12.661Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T22:52:50.206Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BMTFS45</label_text>
+<label_text>FS45</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="35.05923136" lon="-84.48805889">
 <ele>573.024</ele>
 <time>2012-01-16T16:13:04Z</time>
-<name>BMTFS221</name>
-<desc>FS221 junction with BMT</desc>
-<sym>Car</sym>
-<type>Road</type>
+<name>FS221</name>
+<desc>BMT junction with FS 221, W Fork TR 303, Quartz Loop TR 339, Chestnut Mtn TR 335.</desc>
+<sym>Trail Head</sym>
+<type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T01:02:19.974Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T22:53:00.336Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BMTFS221</label_text>
+<label_text>FS221</label_text>
 </label>
 </extensions>
 </wpt>
@@ -904,23 +839,24 @@
 <ele>1030.572</ele>
 <time>2012-01-16T14:56:21Z</time>
 <name>BMTForkRidgeTr</name>
+<desc>BMT joins Trail No. 69, 64.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T01:03:28.022Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T22:58:09.773Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BMTForkRidgeTr</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.85764467" lon="-84.50393458">
-<ele>1127.455</ele>
+<wpt lat="34.85746000" lon="-84.50424000">
+<ele>1130.808</ele>
 <time>2012-01-16T15:58:16Z</time>
 <name>FlatTopMtn</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T01:03:43.122Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:44:39.153Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>FlatTopMtn</label_text>
 </label>
@@ -956,10 +892,13 @@
 <ele>980.443</ele>
 <time>2012-01-16T14:52:40Z</time>
 <name>BMTDoubleSpringGap</name>
+<desc>True to its name, there is a spring on both sides of the gap. East spring is better. 
+
+Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <sym>Dropoff</sym>
 <type>Gap</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-12-11T21:14:38.351Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:19:42.040Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BMTDoubleSpringGap</label_text>
 </label>
@@ -1144,10 +1083,11 @@
 <ele>1282.134</ele>
 <time>2012-01-16T14:53:52Z</time>
 <name>BigFrogMtn</name>
+<desc>Signed jct for Big Frog Trail (bmt n) and Lick Log Tr (bmt s). Wolf Ridge Trail No. 66 goes west. Campsite.</desc>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T22:44:44.933Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T22:59:44.647Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BigFrogMtn</label_text>
 </label>
@@ -1164,19 +1104,6 @@
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-23T21:27:26.902Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BMTBigCrTr</label_text>
-</label>
-</extensions>
-</wpt>
-<wpt lat="34.92208300" lon="-84.52450500">
-<ele>753.496</ele>
-<time>2012-01-16T14:50:31Z</time>
-<name>BearBranchGA</name>
-<sym>Water Source</sym>
-<type>Water</type>
-<extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-26T15:35:41.487Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>BearBranchGA</label_text>
 </label>
 </extensions>
 </wpt>
@@ -1389,7 +1316,7 @@
 </wpt>
 <wpt lat="35.01518033" lon="-84.52218239">
 <ele>1132.000</ele>
-<time>2017-09-29T23:03:23.018Z</time>
+<time>2017-09-29T23:03:23.017Z</time>
 <name>Chimneytop</name>
 <sym>Summit</sym>
 <type>Summit</type>
@@ -1397,6 +1324,274 @@
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-29T23:03:35.030Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Chimneytop</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="35.04866000" lon="-84.49264000">
+<ele>513.893</ele>
+<time>2017-11-25T22:40:38.343Z</time>
+<name>BMT8551</name>
+<desc>Small stream.</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMT8551</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="35.04842000" lon="-84.49294000">
+<ele>513.893</ele>
+<time>2017-11-25T22:41:52.298Z</time>
+<name>BMT8549</name>
+<desc>Culvert.</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T22:43:34.149Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMT8549</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="35.04607000" lon="-84.49639000">
+<ele>526.999</ele>
+<time>2017-11-25T22:43:56.335Z</time>
+<name>BMT8506</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMT8506</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="35.04321000" lon="-84.49785000">
+<ele>525.780</ele>
+<time>2017-11-25T22:45:58.464Z</time>
+<name>BMT8480</name>
+<desc>Two streams.</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMT8480</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="35.04226000" lon="-84.49771000">
+<ele>545.897</ele>
+<time>2017-11-25T22:48:20.988Z</time>
+<name>BMT8474</name>
+<desc>Stream.</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMT8474</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="35.03731000" lon="-84.50325000">
+<time>2017-11-25T22:49:24.101Z</time>
+<name>2-303-70</name>
+<sym>Trail Head</sym>
+<type>Trail Junction</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>2-303-70</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.99874000" lon="-84.52825000">
+<ele>1243.584</ele>
+<time>2017-11-25T22:57:25.404Z</time>
+<name>BMT8005</name>
+<desc>Unreliable spring.</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:01:45.613Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMT8005</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.97128025" lon="-84.52055820">
+<ele>1083.725</ele>
+<time>2012-01-16T14:51:51Z</time>
+<name>HempTop</name>
+<sym>Trail Head</sym>
+<type>Trail Junction</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:22:36.264Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HempTop</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.95426000" lon="-84.52279000">
+<time>2017-11-25T23:24:16.411Z</time>
+<name>BMTPenBranchTrail</name>
+<desc>Penitentiary Branch Trail goes west</desc>
+<sym>Trail Head</sym>
+<type>Trail Junction</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMTPenBranchTrail</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.94027000" lon="-84.52567000">
+<ele>896.722</ele>
+<time>2017-11-25T23:27:11.281Z</time>
+<name>SpanishOakGap</name>
+<sym>Trail Head</sym>
+<type>Trail Junction</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:28:32.009Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SpanishOakGap</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.92485000" lon="-84.52402000">
+<ele>766.877</ele>
+<time>2017-11-25T23:29:08.255Z</time>
+<name>BMTJacksRiverTrN</name>
+<desc>BMT north junction with Jacks River Trail.</desc>
+<sym>Trail Head</sym>
+<type>Trail Junction</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:31:02.136Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMTJacksRiverTrN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.92101000" lon="-84.52450000">
+<ele>744.931</ele>
+<time>2017-11-25T23:31:29.101Z</time>
+<name>BMTBearBranch</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:32:27.006Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMTBearBranch</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.91985000" lon="-84.52147000">
+<ele>754.685</ele>
+<time>2017-11-25T23:32:42.630Z</time>
+<name>BMT7309</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMT7309</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.91914000" lon="-84.51933000">
+<ele>760.781</ele>
+<time>2017-11-25T23:33:20.776Z</time>
+<name>BMT7293</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMT7293</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.91438000" lon="-84.50892000">
+<ele>817.778</ele>
+<time>2017-11-25T23:34:25.820Z</time>
+<name>BMT7200</name>
+<desc>Small water source.</desc>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMT7200</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.90731342" lon="-84.50793572">
+<ele>857.707</ele>
+<time>2017-11-25T23:35:32.317Z</time>
+<name>BMT7138</name>
+<desc>BMT nobo leaves road.</desc>
+<sym>Car</sym>
+<type>Road</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:35:59.862Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMT7138</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.87419000" lon="-84.52103000">
+<ele>795.528</ele>
+<time>2017-11-25T23:40:30.689Z</time>
+<name>BMT6767</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMT6767</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.87090000" lon="-84.51957000">
+<ele>804.672</ele>
+<time>2017-11-25T23:41:33.394Z</time>
+<name>BMT6742</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMT6742</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.87085000" lon="-84.51953000">
+<time>2017-11-25T23:42:25.635Z</time>
+<name>BMT6741</name>
+<sym>Trail Head</sym>
+<type>Trail Junction</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BMT6741</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.82934033" lon="-84.50100631">
+<ele>989.335</ele>
+<time>2012-01-16T14:44:03Z</time>
+<name>HallowayGap</name>
+<desc>E 0.2 miles to a campsite and stream.</desc>
+<sym>Dropoff</sym>
+<type>Gap</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:46:28.081Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HallowayGap</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="34.83073785" lon="-84.50072870">
+<ele>989.000</ele>
+<time>2017-11-25T23:48:23.414Z</time>
+<name>HallowaySpring</name>
+<sym>Water Source</sym>
+<type>Water</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:48:37.624Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HallowaySpring</label_text>
 </label>
 </extensions>
 </wpt>
@@ -1411,7 +1606,7 @@
 <label_text>Benton MacKaye Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
-<color>ff0000</color>
+<color>cb0017</color>
 <opacity>1.00</opacity>
 <width>1.1250</width>
 <pattern>Solid</pattern>
@@ -32361,6 +32556,68 @@
 <trkpt lat="35.07577310" lon="-84.48153600">
 <ele>347.992</ele>
 <time>2012-01-15T18:42:28Z</time>
+</trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>HWAY</name>
+<desc>bad,e</desc>
+<type>Line</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:48:06.781Z</time>
+<override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>Halloway Gap Spur</label_text>
+</label>
+<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+<color>cb0017</color>
+<opacity>1.00</opacity>
+<width>1.1250</width>
+<pattern>Solid</pattern>
+</line>
+</extensions>
+<trkseg>
+<trkpt lat="34.82930456" lon="-84.50104564">
+<ele>1007.000</ele>
+</trkpt>
+<trkpt lat="34.82943726" lon="-84.50099736">
+<ele>1007.000</ele>
+</trkpt>
+<trkpt lat="34.82953900" lon="-84.50095981">
+<ele>1006.000</ele>
+</trkpt>
+<trkpt lat="34.82961420" lon="-84.50087934">
+<ele>1006.000</ele>
+</trkpt>
+<trkpt lat="34.82971593" lon="-84.50084715">
+<ele>1006.000</ele>
+</trkpt>
+<trkpt lat="34.82982210" lon="-84.50085252">
+<ele>1002.000</ele>
+</trkpt>
+<trkpt lat="34.82991941" lon="-84.50088470">
+<ele>1002.000</ele>
+</trkpt>
+<trkpt lat="34.83003884" lon="-84.50089007">
+<ele>995.000</ele>
+</trkpt>
+<trkpt lat="34.83014500" lon="-84.50084715">
+<ele>994.000</ele>
+</trkpt>
+<trkpt lat="34.83021135" lon="-84.50077742">
+<ele>994.000</ele>
+</trkpt>
+<trkpt lat="34.83033078" lon="-84.50072914">
+<ele>991.000</ele>
+</trkpt>
+<trkpt lat="34.83047233" lon="-84.50070231">
+<ele>991.000</ele>
+</trkpt>
+<trkpt lat="34.83059618" lon="-84.50072914">
+<ele>989.000</ele>
+</trkpt>
+<trkpt lat="34.83072446" lon="-84.50072914">
+<ele>989.000</ele>
 </trkpt>
 </trkseg>
 </trk>
