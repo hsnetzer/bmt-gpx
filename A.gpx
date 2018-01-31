@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="34.62669135" minlon="-84.52922030" maxlat="35.07733504" maxlon="-84.12419114"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:18:49.671Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T20:57:43.121Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="35.07540626" lon="-84.48203232">
 </active_point>
 </extensions>
@@ -817,7 +817,7 @@
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:14:10.949Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:14:10.948Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BMTForkRidgeTr</label_text>
 </label>
@@ -1300,7 +1300,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:15:27.281Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:15:27.280Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BMT8506</label_text>
 </label>
@@ -1458,7 +1458,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:08:27.110Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:08:27.109Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BMT7200</label_text>
 </label>
@@ -1951,7 +1951,7 @@ In memory of Joann Tiesler"</desc>
 <desc>bad,e</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:25:06.005Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T20:57:43.121Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Falls Brook Falls Spur</label_text>
@@ -1964,11 +1964,21 @@ In memory of Joann Tiesler"</desc>
 </line>
 </extensions>
 <trkseg>
-<trkpt lat="34.78595020" lon="-84.30531948"/>
-<trkpt lat="34.78605642" lon="-84.30531412"/>
-<trkpt lat="34.78612723" lon="-84.30537849"/>
-<trkpt lat="34.78618477" lon="-84.30545359"/>
-<trkpt lat="34.78625558" lon="-84.30557697"/>
+<trkpt lat="34.78595020" lon="-84.30531948">
+<ele>686.000</ele>
+</trkpt>
+<trkpt lat="34.78605642" lon="-84.30531412">
+<ele>686.000</ele>
+</trkpt>
+<trkpt lat="34.78612723" lon="-84.30537849">
+<ele>686.000</ele>
+</trkpt>
+<trkpt lat="34.78618477" lon="-84.30545359">
+<ele>683.000</ele>
+</trkpt>
+<trkpt lat="34.78625558" lon="-84.30557697">
+<ele>689.000</ele>
+</trkpt>
 </trkseg>
 </trk>
 <trk>
@@ -1976,7 +1986,7 @@ In memory of Joann Tiesler"</desc>
 <desc>good,e</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:46:19.756Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T20:54:42.065Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Garland Gap Water Spur</label_text>
@@ -1989,18 +1999,42 @@ In memory of Joann Tiesler"</desc>
 </line>
 </extensions>
 <trkseg>
-<trkpt lat="34.79659016" lon="-84.22327473"/>
-<trkpt lat="34.79649281" lon="-84.22329619"/>
-<trkpt lat="34.79638218" lon="-84.22330692"/>
-<trkpt lat="34.79625827" lon="-84.22330692"/>
-<trkpt lat="34.79612994" lon="-84.22331765"/>
-<trkpt lat="34.79600603" lon="-84.22332301"/>
-<trkpt lat="34.79591753" lon="-84.22326400"/>
-<trkpt lat="34.79581575" lon="-84.22322645"/>
-<trkpt lat="34.79570069" lon="-84.22319963"/>
-<trkpt lat="34.79559006" lon="-84.22317817"/>
-<trkpt lat="34.79551926" lon="-84.22311380"/>
-<trkpt lat="34.79543075" lon="-84.22302797"/>
+<trkpt lat="34.79659016" lon="-84.22327473">
+<ele>731.000</ele>
+</trkpt>
+<trkpt lat="34.79649281" lon="-84.22329619">
+<ele>731.000</ele>
+</trkpt>
+<trkpt lat="34.79638218" lon="-84.22330692">
+<ele>731.000</ele>
+</trkpt>
+<trkpt lat="34.79625827" lon="-84.22330692">
+<ele>735.000</ele>
+</trkpt>
+<trkpt lat="34.79612994" lon="-84.22331765">
+<ele>742.000</ele>
+</trkpt>
+<trkpt lat="34.79600603" lon="-84.22332301">
+<ele>742.000</ele>
+</trkpt>
+<trkpt lat="34.79591753" lon="-84.22326400">
+<ele>742.000</ele>
+</trkpt>
+<trkpt lat="34.79581575" lon="-84.22322645">
+<ele>747.000</ele>
+</trkpt>
+<trkpt lat="34.79570069" lon="-84.22319963">
+<ele>747.000</ele>
+</trkpt>
+<trkpt lat="34.79559006" lon="-84.22317817">
+<ele>747.000</ele>
+</trkpt>
+<trkpt lat="34.79551926" lon="-84.22311380">
+<ele>747.000</ele>
+</trkpt>
+<trkpt lat="34.79543075" lon="-84.22302797">
+<ele>743.000</ele>
+</trkpt>
 </trkseg>
 </trk>
 <trk>

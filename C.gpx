@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="35.43855621" minlon="-83.81107374" maxlat="35.76710439" maxlon="-83.09753800"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T17:40:02.065Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T20:58:26.222Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="35.55252232" lon="-83.33480072">
 </active_point>
 </extensions>
@@ -1053,7 +1053,7 @@
 </wpt>
 <wpt lat="35.67124034" lon="-83.18221911">
 <ele>1839.000</ele>
-<time>2017-12-01T17:34:26.495Z</time>
+<time>2017-12-01T17:34:26.494Z</time>
 <name>BalsamCorner</name>
 <sym>Summit</sym>
 <type>Summit</type>
@@ -35549,7 +35549,7 @@
 <desc>good,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T17:38:41.615Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T20:58:26.222Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BMT26732 Water Spur</label_text>
@@ -35562,23 +35562,57 @@
 </line>
 </extensions>
 <trkseg>
-<trkpt lat="35.70482688" lon="-83.12003746"/>
-<trkpt lat="35.70483125" lon="-83.12019034"/>
-<trkpt lat="35.70482250" lon="-83.12032177"/>
-<trkpt lat="35.70478750" lon="-83.12047198"/>
-<trkpt lat="35.70475249" lon="-83.12062218"/>
-<trkpt lat="35.70474812" lon="-83.12075361"/>
-<trkpt lat="35.70473280" lon="-83.12090381"/>
-<trkpt lat="35.70471093" lon="-83.12106206"/>
-<trkpt lat="35.70468249" lon="-83.12120154"/>
-<trkpt lat="35.70467155" lon="-83.12134638"/>
-<trkpt lat="35.70464967" lon="-83.12150194"/>
-<trkpt lat="35.70463654" lon="-83.12164142"/>
-<trkpt lat="35.70462998" lon="-83.12181308"/>
-<trkpt lat="35.70464092" lon="-83.12198474"/>
-<trkpt lat="35.70463436" lon="-83.12213226"/>
-<trkpt lat="35.70464529" lon="-83.12227174"/>
-<trkpt lat="35.70468467" lon="-83.12245949"/>
+<trkpt lat="35.70482688" lon="-83.12003746">
+<ele>1726.000</ele>
+</trkpt>
+<trkpt lat="35.70483125" lon="-83.12019034">
+<ele>1726.000</ele>
+</trkpt>
+<trkpt lat="35.70482250" lon="-83.12032177">
+<ele>1722.000</ele>
+</trkpt>
+<trkpt lat="35.70478750" lon="-83.12047198">
+<ele>1722.000</ele>
+</trkpt>
+<trkpt lat="35.70475249" lon="-83.12062218">
+<ele>1719.000</ele>
+</trkpt>
+<trkpt lat="35.70474812" lon="-83.12075361">
+<ele>1729.000</ele>
+</trkpt>
+<trkpt lat="35.70473280" lon="-83.12090381">
+<ele>1724.000</ele>
+</trkpt>
+<trkpt lat="35.70471093" lon="-83.12106206">
+<ele>1724.000</ele>
+</trkpt>
+<trkpt lat="35.70468249" lon="-83.12120154">
+<ele>1721.000</ele>
+</trkpt>
+<trkpt lat="35.70467155" lon="-83.12134638">
+<ele>1721.000</ele>
+</trkpt>
+<trkpt lat="35.70464967" lon="-83.12150194">
+<ele>1720.000</ele>
+</trkpt>
+<trkpt lat="35.70463654" lon="-83.12164142">
+<ele>1720.000</ele>
+</trkpt>
+<trkpt lat="35.70462998" lon="-83.12181308">
+<ele>1715.000</ele>
+</trkpt>
+<trkpt lat="35.70464092" lon="-83.12198474">
+<ele>1709.000</ele>
+</trkpt>
+<trkpt lat="35.70463436" lon="-83.12213226">
+<ele>1709.000</ele>
+</trkpt>
+<trkpt lat="35.70464529" lon="-83.12227174">
+<ele>1708.000</ele>
+</trkpt>
+<trkpt lat="35.70468467" lon="-83.12245949">
+<ele>1708.000</ele>
+</trkpt>
 </trkseg>
 </trk>
 <extensions>
