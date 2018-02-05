@@ -4,7 +4,7 @@
 <name>TN-NC002</name>
 <bounds minlat="35.07435413" minlon="-84.50310004" maxlat="35.46289556" maxlon="-83.78815426"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:50:34.681Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-04T17:57:58.133Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="35.07963007" lon="-84.46317609">
 </active_point>
 </extensions>
@@ -302,14 +302,14 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="35.19314894" lon="-84.34514246">
+<wpt lat="35.19308729" lon="-84.34518269">
 <ele>549.000</ele>
 <time>2012-01-16T17:05:41Z</time>
 <name>TN68</name>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:20:38.812Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-04T17:57:58.133Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TN68</label_text>
 </label>
@@ -874,7 +874,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:49:22.245Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:49:22.244Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LewellynCove~BMT</label_text>
 </label>
