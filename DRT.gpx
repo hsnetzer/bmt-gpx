@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.02 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
-<bounds minlat="34.74201432" minlon="-84.12464202" maxlat="34.80577215" maxlon="-83.92399510"/>
+<bounds minlat="34.74201432" minlon="-84.12465007" maxlat="34.80577215" maxlon="-83.92399510"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T14:17:42.629Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:14:04.167Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.79460826" lon="-84.12467325">
+</active_point>
 </extensions>
 </metadata>
 <wpt lat="34.76401830" lon="-83.95238340">
@@ -194,7 +196,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.74718380" lon="-83.94376195">
+<wpt lat="34.74721812" lon="-83.94365198">
 <ele>1151.352</ele>
 <time>2011-10-15T17:20:13Z</time>
 <name>CoosaDuncanRidge1</name>
@@ -202,7 +204,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-12-23T17:36:14.502Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:11:01.674Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>CoosaDuncanRidge1</label_text>
 </label>
@@ -410,20 +412,20 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.79883420" lon="-84.10508430">
+<wpt lat="34.79889173" lon="-84.10511917">
 <ele>930.188</ele>
 <time>2011-10-17T14:11:59Z</time>
 <name>GregoryGap</name>
 <sym>Dropoff</sym>
 <type>Gap</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-10-23T20:16:56.739Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:11:25.303Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>GregoryGap</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.80202758" lon="-84.07094312">
+<wpt lat="34.80210059" lon="-84.07097531">
 <ele>938.330</ele>
 <time>2011-10-16T21:52:49Z</time>
 <name>FishGap</name>
@@ -431,7 +433,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:53:46.831Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:11:36.120Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>FishGap</label_text>
 </label>
@@ -477,14 +479,14 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.79462528" lon="-84.12464202">
+<wpt lat="34.79468281" lon="-84.12465007">
 <ele>992.809</ele>
 <time>2011-10-17T15:38:20Z</time>
 <name>DR-BMT</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-28T14:10:43.567Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:11:43.895Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>DR-BMT</label_text>
 </label>
@@ -529,14 +531,14 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.79102707" lon="-84.01796818">
+<wpt lat="34.79096843" lon="-84.01798025">
 <ele>962.002</ele>
 <time>2011-10-16T16:57:35Z</time>
 <name>BryantGap</name>
 <sym>Dropoff</sym>
 <type>Gap</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T16:29:12.703Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:14:04.167Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BryantGap</label_text>
 </label>
@@ -562,7 +564,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 </link>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T14:16:17.131Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:10:44.857Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Coosa Trail</label_text>
@@ -3509,7 +3511,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <trkpt lat="34.77749874" lon="-83.96048387">
 <ele>1267.343</ele>
 </trkpt>
-<trkpt lat="34.77749431" lon="-83.96059652">
+<trkpt lat="34.77751423" lon="-83.96063944">
 <ele>1266.630</ele>
 </trkpt>
 <trkpt lat="34.77739693" lon="-83.96061262">
@@ -6205,7 +6207,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <desc>good,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T15:04:21.286Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:11:13.763Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Duncan Ridge Trail</label_text>
@@ -7154,11 +7156,11 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <ele>1252.463</ele>
 <time>2011-10-16T13:13:33Z</time>
 </trkpt>
-<trkpt lat="34.77735810" lon="-83.96057610">
+<trkpt lat="34.77728949" lon="-83.96057342">
 <ele>1255.623</ele>
 <time>2011-10-16T13:14:05Z</time>
 </trkpt>
-<trkpt lat="34.77756900" lon="-83.96069900">
+<trkpt lat="34.77753138" lon="-83.96066681">
 <ele>1257.907</ele>
 <time>2011-10-16T13:15:40Z</time>
 </trkpt>
@@ -9834,7 +9836,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <ele>916.609</ele>
 <time>2011-10-17T14:37:26Z</time>
 </trkpt>
-<trkpt lat="34.79833682" lon="-84.11604361">
+<trkpt lat="34.79829478" lon="-84.11599131">
 <ele>916.602</ele>
 <time>2011-10-17T14:38:02.446Z</time>
 </trkpt>

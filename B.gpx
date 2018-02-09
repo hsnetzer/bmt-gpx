@@ -4,8 +4,8 @@
 <name>TN-NC002</name>
 <bounds minlat="35.07435413" minlon="-84.50310004" maxlat="35.46289556" maxlon="-83.78815426"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-04T17:57:58.133Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="35.07963007" lon="-84.46317609">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:15:37.706Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="35.35978959" lon="-84.01909976">
 </active_point>
 </extensions>
 </metadata>
@@ -237,14 +237,14 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="35.20066340" lon="-84.46691293">
+<wpt lat="35.20079550" lon="-84.46691561">
 <ele>256.089</ele>
 <time>2012-01-16T17:25:43Z</time>
 <name>BigBendPicnicArea</name>
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T02:03:04.845Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:53:30.951Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BigBendPicnicArea</label_text>
 </label>
@@ -309,7 +309,7 @@
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-04T17:57:58.133Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-04T17:57:58.132Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TN68</label_text>
 </label>
@@ -461,16 +461,16 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="35.24187201" lon="-84.12992155">
+<wpt lat="35.24175759" lon="-84.12997519">
 <ele>1117.378</ele>
 <time>2012-01-16T18:26:16Z</time>
-<name>OtherRockyTop</name>
+<name>RockyTopB</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T02:07:08.348Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:56:05.464Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>OtherRockyTop</label_text>
+<label_text>RockyTopB</label_text>
 </label>
 </extensions>
 </wpt>
@@ -514,27 +514,27 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="35.27141142" lon="-84.11436296">
+<wpt lat="35.27139382" lon="-84.11427176">
 <ele>1037.931</ele>
 <time>2012-01-16T18:53:09Z</time>
 <name>SugarMtnRd</name>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:17:34.106Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:56:54.163Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SugarMtnRd</label_text>
 </label>
 </extensions>
 </wpt>
-<wpt lat="35.28692022" lon="-84.09416431">
+<wpt lat="35.28693891" lon="-84.09437352">
 <ele>665.177</ele>
 <time>2012-01-16T18:54:51Z</time>
 <name>TellicoRiverRd</name>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:19:42.481Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:57:08.091Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>TellicoRiverRd</label_text>
 </label>
@@ -554,14 +554,14 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="35.30973886" lon="-84.05150959">
+<wpt lat="35.30982241" lon="-84.05146667">
 <ele>1317.000</ele>
 <time>2012-01-16T18:26:16Z</time>
 <name>SycamoreRd</name>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:17:42.915Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:57:24.363Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SycamoreRd</label_text>
 </label>
@@ -635,14 +635,14 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="35.32848773" lon="-84.02764297">
+<wpt lat="35.32843937" lon="-84.02769259">
 <ele>1386.617</ele>
 <time>2012-01-16T19:04:16Z</time>
 <name>BMT15633</name>
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T03:18:37.907Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:58:09.298Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BMT15633</label_text>
 </label>
@@ -1067,7 +1067,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 </label>
 </extensions>
 </wpt>
-<wpt lat="35.29440766" lon="-84.08033472">
+<wpt lat="35.29441426" lon="-84.08045274">
 <ele>753.553</ele>
 <time>2012-01-16T18:26:16Z</time>
 <name>BMT14839</name>
@@ -1075,7 +1075,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Campground</sym>
 <type>Campsite</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:19:29.880Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:58:31.673Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BMT14839</label_text>
 </label>
@@ -1094,14 +1094,14 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 </label>
 </extensions>
 </wpt>
-<wpt lat="35.18936075" lon="-84.50228769">
+<wpt lat="35.18942681" lon="-84.50229037">
 <ele>226.000</ele>
 <time>2016-08-24T19:09:39.039Z</time>
 <name>HiawasseeRiver</name>
 <sym>Bridge</sym>
 <type>Bridge</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:13:51.482Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:58:41.752Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>HiawasseeRiver</label_text>
 </label>
@@ -1201,7 +1201,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 </label>
 </extensions>
 </wpt>
-<wpt lat="35.36732049" lon="-84.01719567">
+<wpt lat="35.36728314" lon="-84.01715007">
 <ele>1334.666</ele>
 <time>2012-01-16T18:26:16Z</time>
 <name>SForkCiticoCr</name>
@@ -1209,7 +1209,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:17:10.871Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:58:52.561Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SForkCiticoCr</label_text>
 </label>
@@ -1372,14 +1372,14 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 </label>
 </extensions>
 </wpt>
-<wpt lat="35.44891596" lon="-83.94138098">
+<wpt lat="35.44898619" lon="-83.94149900">
 <ele>348.633</ele>
 <time>2014-05-31T16:14:32Z</time>
 <name>SlickrockCrTH</name>
 <sym>Parking Area</sym>
 <type>Parking</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:26:54.861Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:59:10.033Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SlickrockCrTH</label_text>
 </label>
@@ -1870,22 +1870,26 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 </extensions>
 </wpt>
 <wpt lat="35.46273523" lon="-84.01242227">
+<ele>731.000</ele>
 <time>2017-12-01T18:41:53.165Z</time>
 <name>StiffkneeTop</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:15:26.240Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>StiffkneeTop</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="35.39061745" lon="-84.00829301">
+<ele>1316.000</ele>
 <time>2017-12-01T18:44:43.006Z</time>
 <name>ChestnutKnobJoyce</name>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:15:37.706Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>ChestnutKnobJoyce</label_text>
 </label>
@@ -2245,6 +2249,19 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 </label>
 </extensions>
 </wpt>
+<wpt lat="35.24996274" lon="-84.12494337">
+<ele>1299.000</ele>
+<time>2018-02-06T15:56:22.930Z</time>
+<name>BeaverdamBald</name>
+<sym>Summit</sym>
+<type>Summit</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:56:32.267Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BeaverdamBald</label_text>
+</label>
+</extensions>
+</wpt>
 <trk>
 <name>BMT17631</name>
 <desc>bad,e</desc>
@@ -2454,7 +2471,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <desc>bad,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:10:35.005Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:00:32.494Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">00ff00</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Benton MacKaye Trail</label_text>
@@ -29046,7 +29063,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <trkpt lat="35.37236572" lon="-84.00684741">
 <ele>1553.882</ele>
 </trkpt>
-<trkpt lat="35.37237450" lon="-84.00662747">
+<trkpt lat="35.37237834" lon="-84.00672939">
 <ele>1556.495</ele>
 </trkpt>
 <trkpt lat="35.37238329" lon="-84.00652018">
@@ -32482,7 +32499,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <ele>541.971</ele>
 <time>2017-11-15T14:52:12Z</time>
 </trkpt>
-<trkpt lat="35.44628563" lon="-83.96440701">
+<trkpt lat="35.44626258" lon="-83.96426619">
 <ele>549.472</ele>
 </trkpt>
 <trkpt lat="35.44621978" lon="-83.96409050">
@@ -44946,7 +44963,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 </link>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:28:58.257Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:00:41.734Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Stratton Bald Trail #54</label_text>
@@ -44975,11 +44992,11 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <ele>1554.040</ele>
 <time>2016-05-06T02:42:32Z</time>
 </trkpt>
-<trkpt lat="35.37234400" lon="-84.00703200">
+<trkpt lat="35.37238574" lon="-84.00672086">
 <ele>1554.650</ele>
 <time>2016-05-06T02:41:32Z</time>
 </trkpt>
-<trkpt lat="35.37240608" lon="-84.00645957">
+<trkpt lat="35.37245221" lon="-84.00624499">
 <ele>1555.970</ele>
 <time>2016-05-06T02:40:32Z</time>
 </trkpt>
