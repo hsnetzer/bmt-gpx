@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="35.43855621" minlon="-83.81107374" maxlat="35.76710439" maxlon="-83.10572893"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-05T02:44:36.047Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T17:59:14.995Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="35.46727407" lon="-83.56563506">
 </active_point>
 </extensions>
@@ -13,7 +13,7 @@
 <desc>good,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-05T02:44:36.047Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-11T17:59:14.995Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">00ff00</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Benton MacKaye Trail</label_text>
@@ -5124,10 +5124,10 @@
 <trkpt lat="35.44914389" lon="-83.70637631">
 <ele>547.896</ele>
 </trkpt>
-<trkpt lat="35.44910878" lon="-83.70616709">
+<trkpt lat="35.44907366" lon="-83.70622610">
 <ele>548.975</ele>
 </trkpt>
-<trkpt lat="35.44911756" lon="-83.70604908">
+<trkpt lat="35.44904733" lon="-83.70607590">
 <ele>550.882</ele>
 </trkpt>
 <trkpt lat="35.44925363" lon="-83.70605444">
@@ -6062,6 +6062,9 @@
 </trkpt>
 <trkpt lat="35.44892506" lon="-83.68156861">
 <ele>608.367</ele>
+</trkpt>
+<trkpt lat="35.44883523" lon="-83.68146253">
+<ele>606.436</ele>
 </trkpt>
 <trkpt lat="35.44869680" lon="-83.68145595">
 <ele>603.994</ele>
@@ -9981,7 +9984,7 @@
 <trkpt lat="35.45810777" lon="-83.57167273">
 <ele>623.588</ele>
 </trkpt>
-<trkpt lat="35.45824383" lon="-83.57161372">
+<trkpt lat="35.45830747" lon="-83.57160031">
 <ele>624.407</ele>
 </trkpt>
 <trkpt lat="35.45845890" lon="-83.57145815">
@@ -10428,7 +10431,7 @@
 <trkpt lat="35.46717508" lon="-83.56512814">
 <ele>528.899</ele>
 </trkpt>
-<trkpt lat="35.46720141" lon="-83.56541782">
+<trkpt lat="35.46723103" lon="-83.56550633">
 <ele>530.290</ele>
 </trkpt>
 <trkpt lat="35.46727821" lon="-83.56563239">
@@ -11250,10 +11253,10 @@
 <trkpt lat="35.45917432" lon="-83.53814512">
 <ele>639.809</ele>
 </trkpt>
-<trkpt lat="35.45906899" lon="-83.53797346">
+<trkpt lat="35.45907777" lon="-83.53807136">
 <ele>638.342</ele>
 </trkpt>
-<trkpt lat="35.45890659" lon="-83.53777497">
+<trkpt lat="35.45894390" lon="-83.53791444">
 <ele>637.131</ele>
 </trkpt>
 <trkpt lat="35.45882759" lon="-83.53766768">
@@ -13794,10 +13797,10 @@
 <trkpt lat="35.52838742" lon="-83.46446003">
 <ele>1066.188</ele>
 </trkpt>
-<trkpt lat="35.52857598" lon="-83.46452440">
+<trkpt lat="35.52865930" lon="-83.46452440">
 <ele>1065.048</ele>
 </trkpt>
-<trkpt lat="35.52872069" lon="-83.46453513">
+<trkpt lat="35.52879962" lon="-83.46454049">
 <ele>1065.838</ele>
 </trkpt>
 <trkpt lat="35.52892241" lon="-83.46456195">
@@ -16701,10 +16704,10 @@
 <trkpt lat="35.54251093" lon="-83.35868175">
 <ele>1539.879</ele>
 </trkpt>
-<trkpt lat="35.54236624" lon="-83.35867639">
+<trkpt lat="35.54230376" lon="-83.35870724">
 <ele>1538.523</ele>
 </trkpt>
-<trkpt lat="35.54221279" lon="-83.35871394">
+<trkpt lat="35.54213497" lon="-83.35873674">
 <ele>1540.208</ele>
 </trkpt>
 <trkpt lat="35.54201549" lon="-83.35875149">

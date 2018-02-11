@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="34.62669135" minlon="-84.52922030" maxlat="35.07733504" maxlon="-84.12419114"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:13:43.808Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-10T03:46:56.995Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.78610186" lon="-84.30560397">
 </active_point>
 </extensions>
@@ -1387,13 +1387,13 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <wpt lat="34.94027000" lon="-84.52567000">
 <ele>896.722</ele>
 <time>2017-11-25T23:27:11.280Z</time>
-<name>SpanishOakGap</name>
+<name>SpanishOakGapB</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:28:32.009Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-10T03:46:56.995Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
-<label_text>SpanishOakGap</label_text>
+<label_text>SpanishOakGapB</label_text>
 </label>
 </extensions>
 </wpt>
