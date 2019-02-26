@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.11 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
 <name>TN-NC002</name>
-<bounds minlat="35.07435413" minlon="-84.50310004" maxlat="35.46289556" maxlon="-83.79373719"/>
+<bounds minlat="35.07435413" minlon="-84.50310004" maxlat="35.46289556" maxlon="-83.79366035"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-24T17:58:08.291Z</time>
-<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="35.35978959" lon="-84.01909976">
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T19:54:04.446Z</time>
+<active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="35.43982161" lon="-83.79366035">
 </active_point>
 </extensions>
 </metadata>
@@ -2271,6 +2271,20 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 </label>
 </extensions>
 </wpt>
+<wpt lat="35.43982161" lon="-83.79366035">
+<ele>609.000</ele>
+<time>2016-08-25T03:21:26.250Z</time>
+<name>ATBMT-VI</name>
+<desc>Dirt road, southern junction of the AT with the BMT near Fontana Dam.</desc>
+<sym>Car</sym>
+<type>Road</type>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-24T18:03:08.002Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ATBMT-VI</label_text>
+</label>
+</extensions>
+</wpt>
 <trk>
 <name>BMT17631</name>
 <desc>bad,e</desc>
@@ -2480,7 +2494,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <desc>bad,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-24T17:57:58.091Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T19:54:04.446Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">00ff00</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Benton MacKaye Trail</label_text>
@@ -38499,7 +38513,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <trkpt lat="35.43981695" lon="-83.79383575">
 <ele>579.968</ele>
 </trkpt>
-<trkpt lat="35.43981420" lon="-83.79373719">
+<trkpt lat="35.43981914" lon="-83.79368153">
 <ele>579.358</ele>
 </trkpt>
 </trkseg>
