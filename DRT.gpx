@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.02 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 6.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
 <metadata>
 <bounds minlat="34.74201432" minlon="-84.12465007" maxlat="34.80577215" maxlon="-83.92399510"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:14:04.167Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:43:43.669Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.79460826" lon="-84.12467325">
 </active_point>
 </extensions>
@@ -82,9 +82,9 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <time>2016-08-22T19:26:11.305Z</time>
 <name>Cottage7</name>
 <sym>Trail Head</sym>
-<type>Trail Head</type>
+<type>Trailhead</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T13:43:16.507Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:43:43.669Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Cottage7</label_text>
 </label>
@@ -433,7 +433,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:11:36.120Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:11:36.119Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>FishGap</label_text>
 </label>

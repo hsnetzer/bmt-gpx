@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="34.66672769" minlon="-84.52922030" maxlat="35.07733504" maxlon="-84.12419114"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-28T18:50:09.233Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:22:52.721Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.78610186" lon="-84.30560397">
 </active_point>
 </extensions>
@@ -1252,11 +1252,13 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 </extensions>
 </wpt>
 <wpt lat="35.03731000" lon="-84.50325000">
+<ele>594.000</ele>
 <time>2017-11-25T22:49:24.101Z</time>
 <name>2-303-70</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:22:29.914Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>2-303-70</label_text>
 </label>
@@ -1290,13 +1292,14 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 </extensions>
 </wpt>
 <wpt lat="34.95439471" lon="-84.52290533">
+<ele>936.000</ele>
 <time>2017-11-25T23:24:16.411Z</time>
 <name>BMTPenBranchTrail</name>
 <desc>Penitentiary Branch Trail goes west</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:10:41.637Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:22:52.721Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>BMTPenBranchTrail</label_text>
 </label>
@@ -1409,13 +1412,14 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 </extensions>
 </wpt>
 <wpt lat="34.87086768" lon="-84.51951525">
+<ele>810.000</ele>
 <time>2017-11-25T23:42:25.635Z</time>
 <name>SouthForkTrS</name>
 <desc>Just north there is a water source.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:04:36.923Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:22:46.715Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>SouthForkTrS</label_text>
 </label>
@@ -1670,11 +1674,13 @@ In memory of Joann Tiesler"</desc>
 </extensions>
 </wpt>
 <wpt lat="34.66679689" lon="-84.17158284">
+<ele>868.000</ele>
 <time>2018-02-05T00:24:10.637Z</time>
 <name>LongCreekFallsSpur</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:22:50.334Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>LongCreekFallsSpur</label_text>
 </label>
