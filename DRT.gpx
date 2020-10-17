@@ -3,7 +3,7 @@
 <metadata>
 <bounds minlat="34.74201432" minlon="-84.12465007" maxlat="34.80577215" maxlon="-83.92399510"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-01T04:06:25.531Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T22:57:09.952Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.79460826" lon="-84.12467325">
 </active_point>
 </extensions>
@@ -35,14 +35,14 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="34.78324000" lon="-83.97652000">
+<wpt lat="34.78320017" lon="-83.97646099">
 <ele>1029.614</ele>
 <time>2017-11-26T01:59:44.174Z</time>
 <name>WhiteoakStompSpring</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T02:00:37.749Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T22:56:50.218Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>WhiteoakStompSpring</label_text>
 </label>
@@ -6207,7 +6207,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <desc>bad,w</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-01T04:06:25.531Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-01T04:06:25.530Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Duncan Ridge Trail</label_text>
@@ -9980,10 +9980,10 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 </trk>
 <trk>
 <name>WSWS</name>
-<desc>bad,s</desc>
+<desc>good,ne</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T02:01:41.401Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T22:57:09.952Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Whiteoak Stomp Water Spur</label_text>
@@ -9996,47 +9996,47 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 </line>
 </extensions>
 <trkseg>
-<trkpt lat="34.78417076" lon="-83.97560507">
-<ele>1063.000</ele>
-</trkpt>
-<trkpt lat="34.78406454" lon="-83.97566945">
-<ele>1060.000</ele>
-</trkpt>
-<trkpt lat="34.78395832" lon="-83.97576601">
-<ele>1060.000</ele>
-</trkpt>
-<trkpt lat="34.78383439" lon="-83.97585184">
-<ele>1055.000</ele>
-</trkpt>
-<trkpt lat="34.78373702" lon="-83.97595913">
-<ele>1055.000</ele>
-</trkpt>
-<trkpt lat="34.78363966" lon="-83.97602350">
-<ele>1051.000</ele>
-</trkpt>
-<trkpt lat="34.78357769" lon="-83.97610933">
-<ele>1051.000</ele>
-</trkpt>
-<trkpt lat="34.78350688" lon="-83.97620589">
-<ele>1047.000</ele>
-</trkpt>
-<trkpt lat="34.78342721" lon="-83.97628099">
-<ele>1047.000</ele>
+<trkpt lat="34.78321477" lon="-83.97645265">
+<ele>1039.000</ele>
 </trkpt>
 <trkpt lat="34.78330329" lon="-83.97633464">
 <ele>1044.000</ele>
 </trkpt>
-<trkpt lat="34.78321477" lon="-83.97645265">
-<ele>1039.000</ele>
+<trkpt lat="34.78340729" lon="-83.97625685">
+<ele>1047.000</ele>
+</trkpt>
+<trkpt lat="34.78348696" lon="-83.97618175">
+<ele>1047.000</ele>
+</trkpt>
+<trkpt lat="34.78357769" lon="-83.97610933">
+<ele>1051.000</ele>
+</trkpt>
+<trkpt lat="34.78363966" lon="-83.97602350">
+<ele>1051.000</ele>
+</trkpt>
+<trkpt lat="34.78372817" lon="-83.97592963">
+<ele>1055.000</ele>
+</trkpt>
+<trkpt lat="34.78383439" lon="-83.97585184">
+<ele>1055.000</ele>
+</trkpt>
+<trkpt lat="34.78395832" lon="-83.97576601">
+<ele>1060.000</ele>
+</trkpt>
+<trkpt lat="34.78406454" lon="-83.97566945">
+<ele>1060.000</ele>
+</trkpt>
+<trkpt lat="34.78417076" lon="-83.97560507">
+<ele>1063.000</ele>
 </trkpt>
 </trkseg>
 </trk>
 <trk>
 <name>MGWS</name>
-<desc>good,s</desc>
+<desc>good,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:58:27.721Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T22:56:19.533Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
 <label_text>Mulky Gap Water Spur</label_text>
@@ -10049,110 +10049,110 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 </line>
 </extensions>
 <trkseg>
-<trkpt lat="34.79907570" lon="-84.03983325">
-<ele>865.000</ele>
+<trkpt lat="34.79544708" lon="-84.04071302">
+<ele>855.000</ele>
 </trkpt>
-<trkpt lat="34.79898278" lon="-84.03986544">
-<ele>865.000</ele>
+<trkpt lat="34.79554886" lon="-84.04071302">
+<ele>855.000</ele>
 </trkpt>
-<trkpt lat="34.79884560" lon="-84.03990835">
-<ele>862.000</ele>
-</trkpt>
-<trkpt lat="34.79872612" lon="-84.03992981">
-<ele>862.000</ele>
-</trkpt>
-<trkpt lat="34.79861107" lon="-84.03996200">
-<ele>859.000</ele>
-</trkpt>
-<trkpt lat="34.79851372" lon="-84.04000491">
-<ele>859.000</ele>
-</trkpt>
-<trkpt lat="34.79840752" lon="-84.04004783">
-<ele>859.000</ele>
-</trkpt>
-<trkpt lat="34.79828804" lon="-84.04012293">
-<ele>858.000</ele>
-</trkpt>
-<trkpt lat="34.79816856" lon="-84.04017121">
-<ele>858.000</ele>
-</trkpt>
-<trkpt lat="34.79805351" lon="-84.04020876">
-<ele>858.000</ele>
-</trkpt>
-<trkpt lat="34.79795173" lon="-84.04022485">
-<ele>856.000</ele>
-</trkpt>
-<trkpt lat="34.79784553" lon="-84.04022485">
-<ele>856.000</ele>
-</trkpt>
-<trkpt lat="34.79773490" lon="-84.04016585">
-<ele>854.000</ele>
-</trkpt>
-<trkpt lat="34.79764197" lon="-84.04010147">
-<ele>854.000</ele>
-</trkpt>
-<trkpt lat="34.79753135" lon="-84.04007465">
-<ele>854.000</ele>
-</trkpt>
-<trkpt lat="34.79742514" lon="-84.04006929">
-<ele>853.000</ele>
-</trkpt>
-<trkpt lat="34.79731009" lon="-84.04008001">
-<ele>853.000</ele>
-</trkpt>
-<trkpt lat="34.79718176" lon="-84.04009611">
+<trkpt lat="34.79564622" lon="-84.04070765">
 <ele>852.000</ele>
 </trkpt>
-<trkpt lat="34.79707998" lon="-84.04011757">
+<trkpt lat="34.79576127" lon="-84.04068619">
 <ele>852.000</ele>
 </trkpt>
-<trkpt lat="34.79694280" lon="-84.04009611">
-<ele>851.000</ele>
-</trkpt>
-<trkpt lat="34.79681004" lon="-84.04008001">
-<ele>851.000</ele>
-</trkpt>
-<trkpt lat="34.79669499" lon="-84.04010147">
-<ele>851.000</ele>
-</trkpt>
-<trkpt lat="34.79657994" lon="-84.04014439">
-<ele>849.000</ele>
-</trkpt>
-<trkpt lat="34.79649586" lon="-84.04019267">
-<ele>849.000</ele>
-</trkpt>
-<trkpt lat="34.79642063" lon="-84.04028923">
-<ele>849.000</ele>
-</trkpt>
-<trkpt lat="34.79634983" lon="-84.04036433">
-<ele>849.000</ele>
-</trkpt>
-<trkpt lat="34.79626132" lon="-84.04045552">
-<ele>849.000</ele>
-</trkpt>
-<trkpt lat="34.79617282" lon="-84.04054135">
-<ele>849.000</ele>
-</trkpt>
-<trkpt lat="34.79609316" lon="-84.04060036">
+<trkpt lat="34.79586748" lon="-84.04067010">
 <ele>851.000</ele>
 </trkpt>
 <trkpt lat="34.79598696" lon="-84.04064864">
 <ele>851.000</ele>
 </trkpt>
-<trkpt lat="34.79586748" lon="-84.04067010">
+<trkpt lat="34.79609316" lon="-84.04060036">
 <ele>851.000</ele>
 </trkpt>
-<trkpt lat="34.79576127" lon="-84.04068619">
+<trkpt lat="34.79617282" lon="-84.04054135">
+<ele>849.000</ele>
+</trkpt>
+<trkpt lat="34.79626132" lon="-84.04045552">
+<ele>849.000</ele>
+</trkpt>
+<trkpt lat="34.79634983" lon="-84.04036433">
+<ele>849.000</ele>
+</trkpt>
+<trkpt lat="34.79642063" lon="-84.04028923">
+<ele>849.000</ele>
+</trkpt>
+<trkpt lat="34.79649586" lon="-84.04019267">
+<ele>849.000</ele>
+</trkpt>
+<trkpt lat="34.79657994" lon="-84.04014439">
+<ele>849.000</ele>
+</trkpt>
+<trkpt lat="34.79669499" lon="-84.04010147">
+<ele>851.000</ele>
+</trkpt>
+<trkpt lat="34.79681004" lon="-84.04008001">
+<ele>851.000</ele>
+</trkpt>
+<trkpt lat="34.79694280" lon="-84.04009611">
+<ele>851.000</ele>
+</trkpt>
+<trkpt lat="34.79707998" lon="-84.04011757">
 <ele>852.000</ele>
 </trkpt>
-<trkpt lat="34.79564622" lon="-84.04070765">
+<trkpt lat="34.79718176" lon="-84.04009611">
 <ele>852.000</ele>
 </trkpt>
-<trkpt lat="34.79554886" lon="-84.04071302">
-<ele>855.000</ele>
+<trkpt lat="34.79731009" lon="-84.04008001">
+<ele>853.000</ele>
 </trkpt>
-<trkpt lat="34.79544708" lon="-84.04071302">
-<ele>855.000</ele>
+<trkpt lat="34.79742514" lon="-84.04006929">
+<ele>853.000</ele>
+</trkpt>
+<trkpt lat="34.79753135" lon="-84.04007465">
+<ele>854.000</ele>
+</trkpt>
+<trkpt lat="34.79764197" lon="-84.04010147">
+<ele>854.000</ele>
+</trkpt>
+<trkpt lat="34.79773490" lon="-84.04016585">
+<ele>854.000</ele>
+</trkpt>
+<trkpt lat="34.79784553" lon="-84.04022485">
+<ele>856.000</ele>
+</trkpt>
+<trkpt lat="34.79795173" lon="-84.04022485">
+<ele>856.000</ele>
+</trkpt>
+<trkpt lat="34.79805351" lon="-84.04020876">
+<ele>858.000</ele>
+</trkpt>
+<trkpt lat="34.79816856" lon="-84.04017121">
+<ele>858.000</ele>
+</trkpt>
+<trkpt lat="34.79828804" lon="-84.04012293">
+<ele>858.000</ele>
+</trkpt>
+<trkpt lat="34.79840752" lon="-84.04004783">
+<ele>859.000</ele>
+</trkpt>
+<trkpt lat="34.79851372" lon="-84.04000491">
+<ele>859.000</ele>
+</trkpt>
+<trkpt lat="34.79861107" lon="-84.03996200">
+<ele>859.000</ele>
+</trkpt>
+<trkpt lat="34.79872612" lon="-84.03992981">
+<ele>862.000</ele>
+</trkpt>
+<trkpt lat="34.79884560" lon="-84.03990835">
+<ele>862.000</ele>
+</trkpt>
+<trkpt lat="34.79898278" lon="-84.03986544">
+<ele>865.000</ele>
+</trkpt>
+<trkpt lat="34.79907570" lon="-84.03983325">
+<ele>865.000</ele>
 </trkpt>
 </trkseg>
 </trk>
