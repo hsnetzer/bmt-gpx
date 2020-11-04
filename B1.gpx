@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.10 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
 <metadata>
-<name>TN-NC002</name>
+<desc>TN/NC: Ocoee River to Fontana</desc>
+<copyright author="Harry Netzer">
+<year>2020</year>
+<license>https://github.com/hsnetzer/gpx-bmt/blob/master/LICENSE</license>
+</copyright>
 <bounds minlat="35.07435413" minlon="-84.50310004" maxlat="35.46289556" maxlon="-83.79368153"/>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T22:55:53.387Z</time>
@@ -17,7 +21,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:11:09.463Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTRockCrTr</label_text>
 </label>
 </extensions>
@@ -30,7 +34,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:10:56.586Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTDryPdLeadTr</label_text>
 </label>
 </extensions>
@@ -44,7 +48,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:13:21.313Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FS33172</label_text>
 </label>
 </extensions>
@@ -57,7 +61,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:10:21.311Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>KimseyMtnHwy</label_text>
 </label>
 </extensions>
@@ -70,7 +74,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:09:33.227Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PineFlatBr</label_text>
 </label>
 </extensions>
@@ -83,7 +87,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:09:24.073Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>McFarlandRd</label_text>
 </label>
 </extensions>
@@ -97,7 +101,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:09:09.078Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FS1173-1</label_text>
 </label>
 </extensions>
@@ -111,7 +115,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:08:20.966Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LostCrRdS</label_text>
 </label>
 </extensions>
@@ -125,7 +129,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:08:12.017Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LostCrRdN</label_text>
 </label>
 </extensions>
@@ -138,7 +142,7 @@
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T03:26:06.269Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT10096</label_text>
 </label>
 </extensions>
@@ -151,7 +155,7 @@
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:07:41.274Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT10253</label_text>
 </label>
 </extensions>
@@ -164,7 +168,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:07:13.803Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FS173</label_text>
 </label>
 </extensions>
@@ -178,7 +182,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:07:24.961Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT10386</label_text>
 </label>
 </extensions>
@@ -192,7 +196,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:06:57.086Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>EllisCr</label_text>
 </label>
 </extensions>
@@ -205,7 +209,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:02:11.979Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TN30-RelianceRd</label_text>
 </label>
 </extensions>
@@ -218,7 +222,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:01:55.570Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TN315-30</label_text>
 </label>
 </extensions>
@@ -232,7 +236,7 @@
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:41:22.474Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TNJohnMuirTH</label_text>
 </label>
 </extensions>
@@ -245,7 +249,7 @@
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:53:30.951Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BigBendPicnicArea</label_text>
 </label>
 </extensions>
@@ -258,7 +262,7 @@
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T02:03:28.746Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ToweePicnicArea</label_text>
 </label>
 </extensions>
@@ -271,7 +275,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:55:59.674Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WildcatCr</label_text>
 </label>
 </extensions>
@@ -284,7 +288,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:54:01.888Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LossCreek</label_text>
 </label>
 </extensions>
@@ -297,7 +301,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:53:21.609Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FS228</label_text>
 </label>
 </extensions>
@@ -310,7 +314,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-04T17:57:58.132Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TN68</label_text>
 </label>
 </extensions>
@@ -323,7 +327,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:16:15.011Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>OldTN68</label_text>
 </label>
 </extensions>
@@ -336,7 +340,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-24T20:30:41.069Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PeelsGap</label_text>
 </label>
 </extensions>
@@ -349,7 +353,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:48:37.369Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TateGap</label_text>
 </label>
 </extensions>
@@ -362,7 +366,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:48:22.805Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CantrellTop</label_text>
 </label>
 </extensions>
@@ -376,7 +380,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:45:27.483Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SixmileGap</label_text>
 </label>
 </extensions>
@@ -390,7 +394,7 @@
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T03:24:20.641Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT13119</label_text>
 </label>
 </extensions>
@@ -404,7 +408,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-23T21:28:15.855Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT13271</label_text>
 </label>
 </extensions>
@@ -417,7 +421,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:41:53.395Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HippsGap</label_text>
 </label>
 </extensions>
@@ -430,7 +434,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-24T20:59:21.101Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MossGap</label_text>
 </label>
 </extensions>
@@ -443,7 +447,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:38:11.211Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HazelnutKnob</label_text>
 </label>
 </extensions>
@@ -456,7 +460,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-12-11T21:20:41.055Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TNNCRoundTop</label_text>
 </label>
 </extensions>
@@ -469,7 +473,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:56:05.464Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RockyTopB</label_text>
 </label>
 </extensions>
@@ -482,7 +486,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:35:46.739Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SledRunnerGap</label_text>
 </label>
 </extensions>
@@ -496,7 +500,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T02:08:40.746Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTBrookshireCrTr</label_text>
 </label>
 </extensions>
@@ -509,7 +513,7 @@
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-24T21:19:55.608Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BaldRiverFalls</label_text>
 </label>
 </extensions>
@@ -522,7 +526,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:56:54.163Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SugarMtnRd</label_text>
 </label>
 </extensions>
@@ -535,7 +539,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:57:08.091Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TellicoRiverRd</label_text>
 </label>
 </extensions>
@@ -549,7 +553,7 @@
 <type>Bridge</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:17:51.056Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TellicoRiver</label_text>
 </label>
 </extensions>
@@ -562,7 +566,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:57:24.363Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SycamoreRd</label_text>
 </label>
 </extensions>
@@ -576,7 +580,7 @@
 <type>Parking</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:13:36.671Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTCherohalaI</label_text>
 </label>
 </extensions>
@@ -589,7 +593,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:15:09.579Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>NRiverRd</label_text>
 </label>
 </extensions>
@@ -603,7 +607,7 @@
 <type>Parking</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:11:12.900Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FodderstackHorseTr</label_text>
 </label>
 </extensions>
@@ -616,7 +620,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:03:52.794Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTFodderstack</label_text>
 </label>
 </extensions>
@@ -630,7 +634,7 @@
 <type>Parking</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:11:40.198Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>UnicoiCrest</label_text>
 </label>
 </extensions>
@@ -643,7 +647,7 @@
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:58:09.298Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT15633</label_text>
 </label>
 </extensions>
@@ -659,7 +663,7 @@ NE 100 yards to ruins.</desc>
 <type>Parking</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T02:31:33.003Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WiggMeadow</label_text>
 </label>
 </extensions>
@@ -673,7 +677,7 @@ NE 100 yards to ruins.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T01:02:31.084Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTIkeBranchS</label_text>
 </label>
 </extensions>
@@ -687,7 +691,7 @@ NE 100 yards to ruins.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:27:51.392Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Ike196</label_text>
 </label>
 </extensions>
@@ -700,7 +704,7 @@ NE 100 yards to ruins.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-23T21:29:03.591Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTJohnMuirTr</label_text>
 </label>
 </extensions>
@@ -713,7 +717,7 @@ NE 100 yards to ruins.</desc>
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T00:52:52.761Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MeadowBranchRd</label_text>
 </label>
 </extensions>
@@ -726,7 +730,7 @@ NE 100 yards to ruins.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-23T21:29:19.517Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT18001</label_text>
 </label>
 </extensions>
@@ -739,7 +743,7 @@ NE 100 yards to ruins.</desc>
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T00:41:50.755Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>OldFieldGapRd</label_text>
 </label>
 </extensions>
@@ -752,7 +756,7 @@ NE 100 yards to ruins.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-25T03:23:11.255Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HalfmileBranchGap</label_text>
 </label>
 </extensions>
@@ -766,7 +770,7 @@ NE 100 yards to ruins.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T03:13:18.841Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT18231C</label_text>
 </label>
 </extensions>
@@ -780,7 +784,7 @@ NE 100 yards to ruins.</desc>
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T03:12:42.851Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT18313</label_text>
 </label>
 </extensions>
@@ -794,7 +798,7 @@ NE 100 yards to ruins.</desc>
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T03:12:25.207Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT18309</label_text>
 </label>
 </extensions>
@@ -810,7 +814,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T00:31:19.935Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WelchRdNC28</label_text>
 </label>
 </extensions>
@@ -823,7 +827,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Power Line</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T03:12:09.746Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT18337</label_text>
 </label>
 </extensions>
@@ -836,7 +840,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-02T21:31:56.016Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GreenGap</label_text>
 </label>
 </extensions>
@@ -849,7 +853,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T00:37:48.237Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>KirklandGap</label_text>
 </label>
 </extensions>
@@ -862,7 +866,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:16:22.961Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PanelBranch</label_text>
 </label>
 </extensions>
@@ -875,7 +879,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:49:22.244Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LewellynCove~BMT</label_text>
 </label>
 </extensions>
@@ -888,7 +892,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:13:33.996Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GoldBranch</label_text>
 </label>
 </extensions>
@@ -902,7 +906,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T02:20:21.671Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FloydBranch</label_text>
 </label>
 </extensions>
@@ -916,7 +920,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T03:22:31.410Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT13631</label_text>
 </label>
 </extensions>
@@ -929,7 +933,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:15:12.970Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BrookshireCreek</label_text>
 </label>
 </extensions>
@@ -942,7 +946,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:24:44.190Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ManganBr1</label_text>
 </label>
 </extensions>
@@ -955,7 +959,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:25:19.344Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ManganBr2</label_text>
 </label>
 </extensions>
@@ -968,7 +972,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:13:41.196Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GoldCoveBranch</label_text>
 </label>
 </extensions>
@@ -982,7 +986,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T02:20:41.250Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FloydBrCamp</label_text>
 </label>
 </extensions>
@@ -995,7 +999,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:43:11.779Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT13191</label_text>
 </label>
 </extensions>
@@ -1009,7 +1013,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:42:48.898Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTSandyGap</label_text>
 </label>
 </extensions>
@@ -1022,7 +1026,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:40:48.448Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT13508</label_text>
 </label>
 </extensions>
@@ -1035,7 +1039,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:11:59.815Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT13801</label_text>
 </label>
 </extensions>
@@ -1049,7 +1053,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:12:25.943Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT13997</label_text>
 </label>
 </extensions>
@@ -1062,7 +1066,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:26:55.444Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT14758</label_text>
 </label>
 </extensions>
@@ -1076,7 +1080,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:58:31.673Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT14839</label_text>
 </label>
 </extensions>
@@ -1089,7 +1093,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:23:50.420Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT15044</label_text>
 </label>
 </extensions>
@@ -1102,7 +1106,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Bridge</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:58:41.752Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HiawasseeRiver</label_text>
 </label>
 </extensions>
@@ -1115,7 +1119,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:01:36.507Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TN315-ChildersCrRd</label_text>
 </label>
 </extensions>
@@ -1128,7 +1132,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-25T15:10:34.539Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>UnicoiGapTNNC</label_text>
 </label>
 </extensions>
@@ -1141,7 +1145,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T02:30:18.980Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>NitTop</label_text>
 </label>
 </extensions>
@@ -1155,7 +1159,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T00:39:21.996Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT18231</label_text>
 </label>
 </extensions>
@@ -1168,7 +1172,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Convenience Store</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-10-12T13:15:10.763Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FontanaPitstop</label_text>
 </label>
 </extensions>
@@ -1182,7 +1186,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Post Office</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-10-12T13:16:03.191Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FontanaPO</label_text>
 </label>
 </extensions>
@@ -1196,7 +1200,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:58:52.561Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SForkCiticoCr</label_text>
 </label>
 </extensions>
@@ -1209,7 +1213,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:06:14.749Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Fodderstack-TR149</label_text>
 </label>
 </extensions>
@@ -1222,7 +1226,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:09:55.356Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HarrisonGap</label_text>
 </label>
 </extensions>
@@ -1235,7 +1239,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:09:22.142Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GlennGap</label_text>
 </label>
 </extensions>
@@ -1248,7 +1252,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:16:19.415Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FarrGap</label_text>
 </label>
 </extensions>
@@ -1261,7 +1265,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:10:31.066Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FodderstackPineRidge</label_text>
 </label>
 </extensions>
@@ -1274,7 +1278,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:11:18.871Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Fodderstack-MillBrTr</label_text>
 </label>
 </extensions>
@@ -1287,7 +1291,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:13:27.849Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FodderstackCrowderBr</label_text>
 </label>
 </extensions>
@@ -1300,7 +1304,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:12:12.433Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Fodderstack-BigStack</label_text>
 </label>
 </extensions>
@@ -1313,7 +1317,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:02:51.639Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>NForkCiticoCr</label_text>
 </label>
 </extensions>
@@ -1327,7 +1331,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:02:05.849Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CherryLogGap</label_text>
 </label>
 </extensions>
@@ -1340,7 +1344,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:08:46.096Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TR95-870</label_text>
 </label>
 </extensions>
@@ -1353,7 +1357,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:08:28.167Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TR95-880</label_text>
 </label>
 </extensions>
@@ -1366,7 +1370,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Parking</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:59:10.033Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SlickrockCrTH</label_text>
 </label>
 </extensions>
@@ -1380,7 +1384,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Lodging</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T00:57:47.490Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TapocoLodge</label_text>
 </label>
 </extensions>
@@ -1392,7 +1396,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GoldBranchTrN</label_text>
 </label>
 </extensions>
@@ -1405,7 +1409,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T00:27:33.832Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LewellynCoveLoop</label_text>
 </label>
 </extensions>
@@ -1418,7 +1422,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T00:30:45.892Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ElmerHollow</label_text>
 </label>
 </extensions>
@@ -1430,7 +1434,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:49:54.871Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT19031</label_text>
 </label>
 </extensions>
@@ -1443,7 +1447,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-15T03:05:05.157Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LookoutRock</label_text>
 </label>
 </extensions>
@@ -1456,7 +1460,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T00:37:26.365Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MicrowaveReflector</label_text>
 </label>
 </extensions>
@@ -1469,7 +1473,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T03:14:08.855Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT18093</label_text>
 </label>
 </extensions>
@@ -1482,7 +1486,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T00:51:17.254Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT18033</label_text>
 </label>
 </extensions>
@@ -1496,7 +1500,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T01:00:10.502Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTHangoverLeadTrN</label_text>
 </label>
 </extensions>
@@ -1510,7 +1514,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T01:01:54.263Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTIkeBranchTrN</label_text>
 </label>
 </extensions>
@@ -1523,7 +1527,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:48:34.050Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT16849</label_text>
 </label>
 </extensions>
@@ -1536,7 +1540,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:49:12.364Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT16813</label_text>
 </label>
 </extensions>
@@ -1549,7 +1553,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTNicholsCoveTr</label_text>
 </label>
 </extensions>
@@ -1562,7 +1566,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:49:48.553Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT16750</label_text>
 </label>
 </extensions>
@@ -1575,7 +1579,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTNicholsCoveS</label_text>
 </label>
 </extensions>
@@ -1589,7 +1593,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:50:23.063Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT16593</label_text>
 </label>
 </extensions>
@@ -1601,7 +1605,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Parking Area</sym>
 <type>Parking</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BigFatGap</label_text>
 </label>
 </extensions>
@@ -1615,7 +1619,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T01:26:38.614Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SaddleTreeGap</label_text>
 </label>
 </extensions>
@@ -1628,7 +1632,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T01:23:25.616Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TheHangover</label_text>
 </label>
 </extensions>
@@ -1641,7 +1645,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T01:24:47.024Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DeepCreekTr</label_text>
 </label>
 </extensions>
@@ -1653,7 +1657,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTHaoeN</label_text>
 </label>
 </extensions>
@@ -1666,7 +1670,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:41:22.474Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HaoeLeadTr</label_text>
 </label>
 </extensions>
@@ -1680,7 +1684,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:40:59.905Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTSlickrock</label_text>
 </label>
 </extensions>
@@ -1694,7 +1698,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:24:49.904Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HaoeStratton</label_text>
 </label>
 </extensions>
@@ -1707,7 +1711,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T17:45:37.830Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LittleFodderstack</label_text>
 </label>
 </extensions>
@@ -1718,7 +1722,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>IkeSlickrockN</label_text>
 </label>
 </extensions>
@@ -1729,7 +1733,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>IkeSlickrockS</label_text>
 </label>
 </extensions>
@@ -1740,7 +1744,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FodderstackBob</label_text>
 </label>
 </extensions>
@@ -1752,7 +1756,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:04:29.795Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ColdSpringGap</label_text>
 </label>
 </extensions>
@@ -1765,7 +1769,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:09:42.997Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Rockstack</label_text>
 </label>
 </extensions>
@@ -1778,7 +1782,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:10:15.020Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BigFodderstack</label_text>
 </label>
 </extensions>
@@ -1790,7 +1794,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:50:34.681Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>StrattonBaldTr~54A</label_text>
 </label>
 </extensions>
@@ -1802,7 +1806,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:41:22.474Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>StrattonBaldTr</label_text>
 </label>
 </extensions>
@@ -1814,7 +1818,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GrassyTop</label_text>
 </label>
 </extensions>
@@ -1826,7 +1830,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HawKnob</label_text>
 </label>
 </extensions>
@@ -1839,7 +1843,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:31:53.709Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HuckleberryKnob</label_text>
 </label>
 </extensions>
@@ -1852,7 +1856,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:15:26.240Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>StiffkneeTop</label_text>
 </label>
 </extensions>
@@ -1865,7 +1869,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-09T21:15:37.706Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ChestnutKnobJoyce</label_text>
 </label>
 </extensions>
@@ -1879,7 +1883,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:02:10.108Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT18551</label_text>
 </label>
 </extensions>
@@ -1893,7 +1897,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:06:50.412Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BeechGapKilmer</label_text>
 </label>
 </extensions>
@@ -1906,7 +1910,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:41:22.474Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTCherohalaII</label_text>
 </label>
 </extensions>
@@ -1919,7 +1923,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Scenic Area</sym>
 <type>Scenic Area</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT15819</label_text>
 </label>
 </extensions>
@@ -1932,7 +1936,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT15774</label_text>
 </label>
 </extensions>
@@ -1946,7 +1950,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:21:44.852Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SycamoreCrCampSpur</label_text>
 </label>
 </extensions>
@@ -1960,7 +1964,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:27:58.011Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT-TR86</label_text>
 </label>
 </extensions>
@@ -1974,7 +1978,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:31:11.475Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT14535</label_text>
 </label>
 </extensions>
@@ -1987,7 +1991,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:29:54.517Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SugarMtn</label_text>
 </label>
 </extensions>
@@ -2001,7 +2005,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:39:17.763Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BaldRiver</label_text>
 </label>
 </extensions>
@@ -2014,7 +2018,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:45:26.901Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT14489</label_text>
 </label>
 </extensions>
@@ -2026,7 +2030,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:49:17.813Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BrookshireCr</label_text>
 </label>
 </extensions>
@@ -2039,7 +2043,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT14522</label_text>
 </label>
 </extensions>
@@ -2052,7 +2056,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:50:18.003Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BrookshireCr2</label_text>
 </label>
 </extensions>
@@ -2065,7 +2069,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT14183</label_text>
 </label>
 </extensions>
@@ -2078,7 +2082,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:15:03.201Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BrookshireCreek2</label_text>
 </label>
 </extensions>
@@ -2091,7 +2095,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTBrookshireCrTrS</label_text>
 </label>
 </extensions>
@@ -2105,7 +2109,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:41:17.552Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT13508WA</label_text>
 </label>
 </extensions>
@@ -2117,7 +2121,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WaucheesiMtn</label_text>
 </label>
 </extensions>
@@ -2129,7 +2133,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTUnicoiMtnTr</label_text>
 </label>
 </extensions>
@@ -2142,7 +2146,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:51:43.211Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT-TR82</label_text>
 </label>
 </extensions>
@@ -2155,7 +2159,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Bridge</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:52:54.977Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CokerCreek</label_text>
 </label>
 </extensions>
@@ -2167,7 +2171,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT11554</label_text>
 </label>
 </extensions>
@@ -2180,7 +2184,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:56:50.334Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CappyBranch</label_text>
 </label>
 </extensions>
@@ -2194,7 +2198,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Hostel</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:00:23.253Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FlipFlopBurgers</label_text>
 </label>
 </extensions>
@@ -2207,7 +2211,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Shelter Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:02:54.398Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HiawasseeWhitewater</label_text>
 </label>
 </extensions>
@@ -2219,7 +2223,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Trail Head</sym>
 <type>Shelter Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HiwasseeOutfitters</label_text>
 </label>
 </extensions>
@@ -2232,7 +2236,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:56:32.267Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BeaverdamBald</label_text>
 </label>
 </extensions>
@@ -2243,7 +2247,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Haoe~DeepCr</label_text>
 </label>
 </extensions>
@@ -2255,7 +2259,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-02T21:39:31.866Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Haoe261</label_text>
 </label>
 </extensions>
@@ -2267,7 +2271,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-03-25T01:01:26.759Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT17631 Campsite Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -2353,7 +2357,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T02:10:10.243Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Brookshire Creek Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -2397,7 +2401,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:49:09.854Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Tate Gap Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -2471,7 +2475,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-02-26T19:54:04.446Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">00ff00</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Benton MacKaye Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -38500,7 +38504,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:39:54.908Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Hangover Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -38619,7 +38623,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-02T21:38:55.013Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Haoe Lead Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -40984,7 +40988,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T22:55:53.387Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Slickrock Creek Trail No. 42</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -41782,7 +41786,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:07:57.934Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Fodderstack Horse Trail #95</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -43461,7 +43465,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T22:55:37.740Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Ike Branch Trail No. 45</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -43891,7 +43895,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:50:28.659Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0097a4</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Bob Bald Connector #54A</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -44151,7 +44155,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:00:41.734Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Stratton Bald Trail #54</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -44891,7 +44895,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:41:12.273Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT13508 Water Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -44947,7 +44951,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-03-02T21:36:55.557Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Green Gap Connector</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">

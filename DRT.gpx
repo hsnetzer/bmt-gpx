@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.10 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
 <metadata>
+<desc>Duncan Ridge Trail</desc>
+<copyright author="Harry Netzer">
+<year>2020</year>
+<license>https://github.com/hsnetzer/gpx-bmt/blob/master/LICENSE</license>
+</copyright>
 <bounds minlat="34.74201432" minlon="-84.12465007" maxlat="34.80577215" maxlon="-83.92399510"/>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T22:57:09.952Z</time>
@@ -17,7 +22,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-09-18T22:06:18.555Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WolfpenGapDuncan</label_text>
 </label>
 </extensions>
@@ -30,7 +35,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-22T19:19:35.871Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WildcatGap</label_text>
 </label>
 </extensions>
@@ -43,7 +48,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T22:56:50.218Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WhiteoakStompSpring</label_text>
 </label>
 </extensions>
@@ -59,7 +64,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T02:00:23.130Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WhiteoakStomp</label_text>
 </label>
 </extensions>
@@ -72,7 +77,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T13:51:04.711Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WForkWolfCreek</label_text>
 </label>
 </extensions>
@@ -85,7 +90,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Trailhead</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:43:43.669Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Cottage7</label_text>
 </label>
 </extensions>
@@ -99,7 +104,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T16:08:08.539Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DR65WA</label_text>
 </label>
 </extensions>
@@ -112,7 +117,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-12-23T17:33:57.081Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DR549C</label_text>
 </label>
 </extensions>
@@ -125,7 +130,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-12-23T17:33:57.081Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DR428C</label_text>
 </label>
 </extensions>
@@ -138,7 +143,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-12-23T17:33:57.081Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DR372C</label_text>
 </label>
 </extensions>
@@ -151,7 +156,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-12-23T17:33:57.081Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DR310C</label_text>
 </label>
 </extensions>
@@ -164,7 +169,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-12-23T17:33:57.081Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DR162C</label_text>
 </label>
 </extensions>
@@ -178,7 +183,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-28T14:29:16.914Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DR124WA</label_text>
 </label>
 </extensions>
@@ -191,7 +196,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-12-23T17:36:34.141Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CoosaDuncanRidge2</label_text>
 </label>
 </extensions>
@@ -205,7 +210,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:11:01.674Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CoosaDuncanRidge1</label_text>
 </label>
 </extensions>
@@ -219,7 +224,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T14:14:34.491Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CoosaBearHair</label_text>
 </label>
 </extensions>
@@ -232,7 +237,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T16:04:28.219Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CoosaBald</label_text>
 </label>
 </extensions>
@@ -246,7 +251,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-09-18T21:51:16.519Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BurnettGap</label_text>
 </label>
 </extensions>
@@ -259,7 +264,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T16:27:47.144Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BuckeyeKnob</label_text>
 </label>
 </extensions>
@@ -272,7 +277,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T16:31:27.641Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WestWildcatKnob</label_text>
 </label>
 </extensions>
@@ -285,7 +290,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T16:31:59.101Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WestWildcatGap</label_text>
 </label>
 </extensions>
@@ -299,7 +304,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:53:30.983Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SarvisGap</label_text>
 </label>
 </extensions>
@@ -312,7 +317,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T16:44:53.345Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RhodesMtnGap</label_text>
 </label>
 </extensions>
@@ -325,7 +330,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T16:45:20.137Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RhodesMtn</label_text>
 </label>
 </extensions>
@@ -338,7 +343,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-10-23T20:16:18.812Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PayneKnob</label_text>
 </label>
 </extensions>
@@ -351,7 +356,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-28T15:01:11.344Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ParkeKnob</label_text>
 </label>
 </extensions>
@@ -365,7 +370,7 @@ S 150’, down a trail resembling a drainage ditch, to a spring.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:56:58.913Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MulkyGapWater</label_text>
 </label>
 </extensions>
@@ -381,7 +386,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:57:33.934Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MulkyGap</label_text>
 </label>
 </extensions>
@@ -394,7 +399,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-28T15:00:43.494Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HighTop</label_text>
 </label>
 </extensions>
@@ -407,7 +412,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-10-23T20:16:41.444Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GregoryKnob</label_text>
 </label>
 </extensions>
@@ -420,7 +425,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:11:25.303Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GregoryGap</label_text>
 </label>
 </extensions>
@@ -434,7 +439,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:11:36.119Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FishGap</label_text>
 </label>
 </extensions>
@@ -447,7 +452,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-26T20:19:45.996Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DR1643SA</label_text>
 </label>
 </extensions>
@@ -460,7 +465,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T16:39:21.101Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DR1106SA</label_text>
 </label>
 </extensions>
@@ -474,7 +479,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T16:37:18.088Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DR1093SA</label_text>
 </label>
 </extensions>
@@ -487,7 +492,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:11:43.895Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>DR-BMT</label_text>
 </label>
 </extensions>
@@ -500,7 +505,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T16:40:09.924Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ClementsMtn</label_text>
 </label>
 </extensions>
@@ -513,7 +518,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T16:31:07.118Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BuckKnob</label_text>
 </label>
 </extensions>
@@ -526,7 +531,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T16:28:32.292Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BuckeyeGap</label_text>
 </label>
 </extensions>
@@ -539,7 +544,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:14:04.167Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BryantGap</label_text>
 </label>
 </extensions>
@@ -552,7 +557,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T16:40:37.278Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>AkinGap</label_text>
 </label>
 </extensions>
@@ -566,7 +571,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T16:10:44.857Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Coosa Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -6042,7 +6047,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T14:16:59.738Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Coosa Trail Approach</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -6209,7 +6214,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-06-01T04:06:25.530Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Duncan Ridge Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -9985,7 +9990,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T22:57:09.952Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Whiteoak Stomp Water Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -10038,7 +10043,7 @@ S 0.27 miles, past a hunting blind, there is a stream.</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T22:56:19.533Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Mulky Gap Water Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">

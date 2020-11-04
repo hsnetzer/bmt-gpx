@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.10 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ExpertGPS 7.23 using GPS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.topografix.com/GPX/gpx_overlay/0/4 http://www.topografix.com/GPX/gpx_overlay/0/4/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 https://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
 <metadata>
+<desc>GA/TN: Long Creek Falls to the Ocoee</desc>
+<copyright author="Harry Netzer">
+<year>2020</year>
+<license>https://github.com/hsnetzer/gpx-bmt/blob/master/LICENSE</license>
+</copyright>
 <bounds minlat="34.66672769" minlon="-84.52922030" maxlat="35.07733504" maxlon="-84.12419114"/>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:23:43.290Z</time>
@@ -16,7 +21,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T03:54:41.231Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WildcatRidge</label_text>
 </label>
 </extensions>
@@ -29,7 +34,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:08:09.193Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WeaverCrRd</label_text>
 </label>
 </extensions>
@@ -43,7 +48,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:07:30.123Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WatsonGap</label_text>
 </label>
 </extensions>
@@ -56,7 +61,7 @@
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T03:59:02.831Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WallalhaMtnView</label_text>
 </label>
 </extensions>
@@ -69,7 +74,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T03:59:15.277Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WallalhaMtn</label_text>
 </label>
 </extensions>
@@ -82,7 +87,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T22:55:14.286Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WForkRoughCreek</label_text>
 </label>
 </extensions>
@@ -96,7 +101,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:18:49.671Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>US64</label_text>
 </label>
 </extensions>
@@ -109,7 +114,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T00:57:00.190Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT6978</label_text>
 </label>
 </extensions>
@@ -122,7 +127,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T03:57:54.086Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ToonoweeMtn</label_text>
 </label>
 </extensions>
@@ -136,7 +141,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:49:07.336Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TiptonMtn</label_text>
 </label>
 </extensions>
@@ -149,7 +154,7 @@
 <type>Campground</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T22:50:28.289Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ThunderRockCamp</label_text>
 </label>
 </extensions>
@@ -162,7 +167,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T18:28:32.500Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TheBald</label_text>
 </label>
 </extensions>
@@ -175,7 +180,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:45:28.667Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>JacksRiver</label_text>
 </label>
 </extensions>
@@ -188,7 +193,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T00:56:38.865Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT6724</label_text>
 </label>
 </extensions>
@@ -202,7 +207,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T00:58:15.256Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT8652</label_text>
 </label>
 </extensions>
@@ -215,7 +220,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:07:52.943Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTStanleyGapTr</label_text>
 </label>
 </extensions>
@@ -229,7 +234,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:03:40.968Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT3109</label_text>
 </label>
 </extensions>
@@ -243,7 +248,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:02:44.894Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT3015</label_text>
 </label>
 </extensions>
@@ -257,7 +262,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T00:49:58.802Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT1781</label_text>
 </label>
 </extensions>
@@ -270,7 +275,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:07:47.523Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SkeenaGapRd</label_text>
 </label>
 </extensions>
@@ -284,7 +289,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:15:50.604Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT4346</label_text>
 </label>
 </extensions>
@@ -297,7 +302,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:05:14.609Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ShallowFordRd</label_text>
 </label>
 </extensions>
@@ -310,7 +315,7 @@
 <type>Bridge</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T21:00:30.023Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ShallowFordBridge</label_text>
 </label>
 </extensions>
@@ -324,7 +329,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T00:49:13.358Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT867</label_text>
 </label>
 </extensions>
@@ -337,7 +342,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T21:17:42.513Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ScrogginKnob</label_text>
 </label>
 </extensions>
@@ -350,7 +355,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:00:50.283Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT2233</label_text>
 </label>
 </extensions>
@@ -364,7 +369,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T22:56:46.790Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTRoughCreekTrail</label_text>
 </label>
 </extensions>
@@ -377,7 +382,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T22:42:38.358Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RockwellGap</label_text>
 </label>
 </extensions>
@@ -391,7 +396,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:07:06.420Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>StanleyRockCrRds</label_text>
 </label>
 </extensions>
@@ -404,7 +409,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:38:48.198Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RichCove</label_text>
 </label>
 </extensions>
@@ -418,7 +423,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:17:06.050Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTStanley</label_text>
 </label>
 </extensions>
@@ -431,7 +436,7 @@
 <type>Bridge</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:10:44.759Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LaurelCr1</label_text>
 </label>
 </extensions>
@@ -444,7 +449,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:01:33.580Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>PayneGap</label_text>
 </label>
 </extensions>
@@ -457,7 +462,7 @@
 <type>Bridge</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:18:26.071Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>OcoeeRiver</label_text>
 </label>
 </extensions>
@@ -471,7 +476,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T03:54:13.850Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT886</label_text>
 </label>
 </extensions>
@@ -484,7 +489,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:05:59.867Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>MillBranch</label_text>
 </label>
 </extensions>
@@ -497,7 +502,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:16:21.762Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>McKennyGap</label_text>
 </label>
 </extensions>
@@ -510,7 +515,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:02:06.818Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LulaHeadGap</label_text>
 </label>
 </extensions>
@@ -524,7 +529,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:13:25.773Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTLicklogTrail</label_text>
 </label>
 </extensions>
@@ -537,7 +542,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T19:33:28.328Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LicklogMtn</label_text>
 </label>
 </extensions>
@@ -551,7 +556,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:48:04.807Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LedfordGap</label_text>
 </label>
 </extensions>
@@ -564,7 +569,7 @@
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:10:03.252Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LaurelCreekBranch1</label_text>
 </label>
 </extensions>
@@ -577,7 +582,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:09:51.048Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTJacksRiverTr</label_text>
 </label>
 </extensions>
@@ -590,7 +595,7 @@
 <type>Shelter</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:00:13.125Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>IndianRockShelter</label_text>
 </label>
 </extensions>
@@ -604,7 +609,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:15:55.967Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HudsonGap</label_text>
 </label>
 </extensions>
@@ -617,7 +622,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T22:05:50.161Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HorseRidge</label_text>
 </label>
 </extensions>
@@ -630,7 +635,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:04:03.501Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>US76</label_text>
 </label>
 </extensions>
@@ -643,7 +648,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:17:03.547Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HatleyGap</label_text>
 </label>
 </extensions>
@@ -656,7 +661,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:46:16.023Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GarlandGap</label_text>
 </label>
 </extensions>
@@ -670,7 +675,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T00:51:20.062Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT2062</label_text>
 </label>
 </extensions>
@@ -684,7 +689,7 @@
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T20:50:38.746Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WilscotGap</label_text>
 </label>
 </extensions>
@@ -697,7 +702,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T03:58:12.394Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Ga60</label_text>
 </label>
 </extensions>
@@ -710,7 +715,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:17:11.488Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FS45</label_text>
 </label>
 </extensions>
@@ -724,7 +729,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:16:48.674Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FS221</label_text>
 </label>
 </extensions>
@@ -738,7 +743,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:01:43.642Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT2703</label_text>
 </label>
 </extensions>
@@ -751,7 +756,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T03:57:32.284Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTFS816</label_text>
 </label>
 </extensions>
@@ -764,7 +769,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T03:56:45.841Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTFS333</label_text>
 </label>
 </extensions>
@@ -777,7 +782,7 @@
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T03:55:51.721Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FS248</label_text>
 </label>
 </extensions>
@@ -790,7 +795,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T22:04:32.963Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FowlerMtn</label_text>
 </label>
 </extensions>
@@ -804,7 +809,7 @@
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:14:10.948Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTForkRidgeTr</label_text>
 </label>
 </extensions>
@@ -817,7 +822,7 @@
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:17:59.607Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FlatTopMtn</label_text>
 </label>
 </extensions>
@@ -833,7 +838,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:19:42.040Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTDoubleSpringGap</label_text>
 </label>
 </extensions>
@@ -846,7 +851,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T20:56:54.654Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTDialRd</label_text>
 </label>
 </extensions>
@@ -859,7 +864,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:49:41.332Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>WilscotMtn</label_text>
 </label>
 </extensions>
@@ -872,7 +877,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T21:27:28.694Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CherryLogDam</label_text>
 </label>
 </extensions>
@@ -885,7 +890,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Bridge</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:03:30.801Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>CherryLogCr</label_text>
 </label>
 </extensions>
@@ -898,7 +903,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T00:48:42.331Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT732</label_text>
 </label>
 </extensions>
@@ -912,7 +917,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-05T00:23:21.192Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LongCreekFalls</label_text>
 </label>
 </extensions>
@@ -926,7 +931,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Campsite</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-04-20T00:51:43.243Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT2214</label_text>
 </label>
 </extensions>
@@ -940,7 +945,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T03:55:08.177Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BrysonGap</label_text>
 </label>
 </extensions>
@@ -954,7 +959,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T00:52:43.429Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BushyHeadGap</label_text>
 </label>
 </extensions>
@@ -967,7 +972,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Bridge</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T03:57:05.357Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ToccoaRiver</label_text>
 </label>
 </extensions>
@@ -981,7 +986,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:47:35.632Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BrawleyMtn</label_text>
 </label>
 </extensions>
@@ -995,7 +1000,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:14:42.741Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BoardtownRd</label_text>
 </label>
 </extensions>
@@ -1009,7 +1014,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T21:41:44.917Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BoardtownBushyhead</label_text>
 </label>
 </extensions>
@@ -1023,7 +1028,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:13:48.955Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BigFrogMtn</label_text>
 </label>
 </extensions>
@@ -1037,7 +1042,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:14:02.234Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTBigCrTr</label_text>
 </label>
 </extensions>
@@ -1050,7 +1055,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T03:53:08.648Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LongCr</label_text>
 </label>
 </extensions>
@@ -1063,7 +1068,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:12:15.350Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LaurelCreekBranch2</label_text>
 </label>
 </extensions>
@@ -1076,7 +1081,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:11:38.435Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LaurelCr2</label_text>
 </label>
 </extensions>
@@ -1089,7 +1094,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:12:24.118Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTIndianGraveGap</label_text>
 </label>
 </extensions>
@@ -1102,7 +1107,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-29T22:58:18.911Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BigJohnDickMtn</label_text>
 </label>
 </extensions>
@@ -1115,7 +1120,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-29T22:58:47.241Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LittleJohnDickMtn</label_text>
 </label>
 </extensions>
@@ -1126,7 +1131,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-04-12T20:19:54.763Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>JohnDickSaplingGap</label_text>
 </label>
 </extensions>
@@ -1139,7 +1144,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-29T23:01:11.135Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GarlandMtn</label_text>
 </label>
 </extensions>
@@ -1152,7 +1157,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-01T21:47:23.844Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RockyMtnB</label_text>
 </label>
 </extensions>
@@ -1164,7 +1169,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:13:52.530Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>TiptonGap</label_text>
 </label>
 </extensions>
@@ -1177,7 +1182,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Summit</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-29T23:03:35.030Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Chimneytop</label_text>
 </label>
 </extensions>
@@ -1191,7 +1196,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:16:10.215Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT8551</label_text>
 </label>
 </extensions>
@@ -1205,7 +1210,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:15:38.841Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT8549</label_text>
 </label>
 </extensions>
@@ -1218,7 +1223,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:15:27.280Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT8506</label_text>
 </label>
 </extensions>
@@ -1232,7 +1237,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:15:13.512Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT8480</label_text>
 </label>
 </extensions>
@@ -1245,7 +1250,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT8474</label_text>
 </label>
 </extensions>
@@ -1258,7 +1263,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:22:29.914Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>2-303-70</label_text>
 </label>
 </extensions>
@@ -1272,7 +1277,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:13:37.479Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT8005</label_text>
 </label>
 </extensions>
@@ -1285,7 +1290,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:22:36.264Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HempTop</label_text>
 </label>
 </extensions>
@@ -1299,7 +1304,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:22:52.721Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTPenBranchTrail</label_text>
 </label>
 </extensions>
@@ -1312,7 +1317,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-10T03:46:56.994Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SpanishOakGapB</label_text>
 </label>
 </extensions>
@@ -1326,7 +1331,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:09:58.652Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTJacksRiverTrN</label_text>
 </label>
 </extensions>
@@ -1339,7 +1344,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:09:32.286Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTBearBranch</label_text>
 </label>
 </extensions>
@@ -1352,7 +1357,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:08:51.841Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT7309</label_text>
 </label>
 </extensions>
@@ -1365,7 +1370,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:08:40.220Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT7293</label_text>
 </label>
 </extensions>
@@ -1379,7 +1384,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:08:27.109Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT7200</label_text>
 </label>
 </extensions>
@@ -1393,7 +1398,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:07:55.253Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT7138</label_text>
 </label>
 </extensions>
@@ -1405,7 +1410,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT6767</label_text>
 </label>
 </extensions>
@@ -1419,7 +1424,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:22:46.715Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SouthForkTrS</label_text>
 </label>
 </extensions>
@@ -1433,7 +1438,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Gap</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:17:44.373Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HallowayGap</label_text>
 </label>
 </extensions>
@@ -1446,7 +1451,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T23:48:37.624Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>HallowaySpring</label_text>
 </label>
 </extensions>
@@ -1459,7 +1464,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:17:12.627Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT5982</label_text>
 </label>
 </extensions>
@@ -1471,7 +1476,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BushyHeadMtn</label_text>
 </label>
 </extensions>
@@ -1484,7 +1489,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:15:12.286Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT5427</label_text>
 </label>
 </extensions>
@@ -1497,7 +1502,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:14:25.481Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT5119</label_text>
 </label>
 </extensions>
@@ -1510,7 +1515,7 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <type>Road</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:14:09.147Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT5105</label_text>
 </label>
 </extensions>
@@ -1526,7 +1531,7 @@ In memory of Joann Tiesler"</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:13:40.029Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>JTTrail</label_text>
 </label>
 </extensions>
@@ -1539,7 +1544,7 @@ In memory of Joann Tiesler"</desc>
 <type>Bridge</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:02:13.650Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT4877</label_text>
 </label>
 </extensions>
@@ -1552,7 +1557,7 @@ In memory of Joann Tiesler"</desc>
 <type>Water</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:14:46.028Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT4346WA</label_text>
 </label>
 </extensions>
@@ -1565,7 +1570,7 @@ In memory of Joann Tiesler"</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:08:30.802Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>RockyMtnJct</label_text>
 </label>
 </extensions>
@@ -1577,7 +1582,7 @@ In memory of Joann Tiesler"</desc>
 <sym>Campground</sym>
 <type>Campsite</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT4167</label_text>
 </label>
 </extensions>
@@ -1590,7 +1595,7 @@ In memory of Joann Tiesler"</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:07:30.430Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT4075</label_text>
 </label>
 </extensions>
@@ -1603,7 +1608,7 @@ In memory of Joann Tiesler"</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:07:26.118Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT4070</label_text>
 </label>
 </extensions>
@@ -1617,7 +1622,7 @@ In memory of Joann Tiesler"</desc>
 <type>Scenic Area</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:23:16.395Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>FallsBrookFalls</label_text>
 </label>
 </extensions>
@@ -1631,7 +1636,7 @@ In memory of Joann Tiesler"</desc>
 <type>Restaurant</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:41:14.983Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>ToccoaRiverside</label_text>
 </label>
 </extensions>
@@ -1645,7 +1650,7 @@ In memory of Joann Tiesler"</desc>
 <type>Restaurant</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:30:10.650Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>IronBridgeCafe</label_text>
 </label>
 </extensions>
@@ -1658,7 +1663,7 @@ In memory of Joann Tiesler"</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>GarlandSpring</label_text>
 </label>
 </extensions>
@@ -1669,7 +1674,7 @@ In memory of Joann Tiesler"</desc>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>StateRt2</label_text>
 </label>
 </extensions>
@@ -1682,7 +1687,7 @@ In memory of Joann Tiesler"</desc>
 <type>Trail Junction</type>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:22:50.334Z</time>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>LongCreekFallsSpur</label_text>
 </label>
 </extensions>
@@ -1694,7 +1699,7 @@ In memory of Joann Tiesler"</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:19:51.364Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Halloway Gap Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -1756,7 +1761,7 @@ In memory of Joann Tiesler"</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:09:13.478Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT4346 Water Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -1821,7 +1826,7 @@ In memory of Joann Tiesler"</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:08:40.522Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Rocky Mountain Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -1889,7 +1894,7 @@ In memory of Joann Tiesler"</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T20:57:43.121Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Falls Brook Falls Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -1924,7 +1929,7 @@ In memory of Joann Tiesler"</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-01-31T20:54:42.065Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">0000ff</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Garland Gap Water Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -1980,7 +1985,7 @@ In memory of Joann Tiesler"</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-05T00:24:52.223Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">893380</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Long Creek Falls Spur</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
@@ -2033,7 +2038,7 @@ In memory of Joann Tiesler"</desc>
 <extensions>
 <time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:23:43.290Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">00ff00</override_color>
-<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Benton MacKaye Trail</label_text>
 </label>
 <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
