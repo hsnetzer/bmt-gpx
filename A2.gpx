@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="34.66672769" minlon="-84.52922030" maxlat="35.07733504" maxlon="-84.12419114"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:02:55.962Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:26:46.157Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.78628000" lon="-84.30561000">
 </active_point>
 </extensions>
@@ -214,11 +214,10 @@
 <wpt lat="34.78617381" lon="-84.31419151">
 <ele>807.720</ele>
 <time>2012-01-16T15:40:49Z</time>
-<name>=</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T23:57:17.103Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:26:46.157Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMT~StanleyGapTrail</label_text>
 </label>
