@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="35.07435413" minlon="-84.50310004" maxlat="35.46289556" maxlon="-83.79368153"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-17T22:55:53.387Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:15:02.650Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="35.43982161" lon="-83.79366035">
 </active_point>
 </extensions>
@@ -69,13 +69,12 @@
 <wpt lat="35.11967887" lon="-84.46843785">
 <ele>440.399</ele>
 <time>2012-01-16T17:12:44Z</time>
-<name>PineFlatBr</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:09:33.227Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:12:32.780Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>PineFlatBr</label_text>
+<label_text>PineFlatBranch</label_text>
 </label>
 </extensions>
 </wpt>
@@ -190,14 +189,13 @@
 <wpt lat="35.18343862" lon="-84.49426433">
 <ele>290.736</ele>
 <time>2012-01-16T17:22:12Z</time>
-<name>EllisCr</name>
 <desc>Ford.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T01:06:57.086Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:09:35.815Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>EllisCr</label_text>
+<label_text>EllisCreek</label_text>
 </label>
 </extensions>
 </wpt>
@@ -270,13 +268,12 @@
 <wpt lat="35.19029573" lon="-84.42990164">
 <ele>303.883</ele>
 <time>2012-01-16T17:29:31Z</time>
-<name>WildcatCr</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:55:59.674Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:12:50.849Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>WildcatCr</label_text>
+<label_text>WildcatCreek</label_text>
 </label>
 </extensions>
 </wpt>
@@ -926,41 +923,38 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 </extensions>
 </wpt>
 <wpt lat="35.24502000" lon="-84.13307000">
-<ele>1074.151</ele>
+<ele>1090.000</ele>
 <time>2012-01-16T18:26:16Z</time>
-<name>BrookshireCreek</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:15:12.970Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:08:23.823Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BrookshireCreek</label_text>
+<label_text>BrookshireCreek1090</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="35.29868151" lon="-84.06681532">
 <ele>853.530</ele>
 <time>2012-01-16T18:26:16Z</time>
-<name>ManganBr1</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:24:44.190Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:11:16.103Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>ManganBr1</label_text>
+<label_text>ManganBranch854</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="35.30155663" lon="-84.06412536">
 <ele>955.909</ele>
 <time>2012-01-16T18:26:16Z</time>
-<name>ManganBr2</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:25:19.344Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:11:32.440Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>ManganBr2</label_text>
+<label_text>ManganBranch956</label_text>
 </label>
 </extensions>
 </wpt>
@@ -1012,7 +1006,7 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <sym>Campground</sym>
 <type>Campsite</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:42:48.898Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:04:45.153Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>BMTSandyGap</label_text>
 </label>
@@ -1021,13 +1015,12 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <wpt lat="35.24141083" lon="-84.17788448">
 <ele>1083.523</ele>
 <time>2012-01-16T18:26:16Z</time>
-<name>BMT13508</name>
 <sym>Campground</sym>
 <type>Campsite</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:40:48.448Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:04:02.918Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMT13508</label_text>
+<label_text>HazelnutKnobCamp</label_text>
 </label>
 </extensions>
 </wpt>
@@ -1194,14 +1187,13 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <wpt lat="35.36728314" lon="-84.01715007">
 <ele>1334.666</ele>
 <time>2012-01-16T18:26:16Z</time>
-<name>SForkCiticoCr</name>
-<desc>Headwaters of South Fork Citico Creek.</desc>
+<desc>Headwaters.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2018-02-06T15:58:52.561Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:14:34.599Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>SForkCiticoCr</label_text>
+<label_text>SouthForkCiticoCreek</label_text>
 </label>
 </extensions>
 </wpt>
@@ -1273,13 +1265,12 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <wpt lat="35.41965490" lon="-84.02539301">
 <ele>994.163</ele>
 <time>2012-01-16T19:15:09Z</time>
-<name>Fodderstack-MillBrTr</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:11:18.871Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:10:04.550Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>Fodderstack-MillBrTr</label_text>
+<label_text>Fodderstack~MillBrTr</label_text>
 </label>
 </extensions>
 </wpt>
@@ -1299,26 +1290,24 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <wpt lat="35.43077236" lon="-84.01448476">
 <ele>1018.473</ele>
 <time>2012-01-16T19:16:52Z</time>
-<name>Fodderstack-BigStack</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:12:12.433Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:10:33.882Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>Fodderstack-BigStack</label_text>
+<label_text>Fodderstack~BigStack</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="35.37343673" lon="-84.01614093">
 <ele>1320.487</ele>
 <time>2012-01-16T18:26:16Z</time>
-<name>NForkCiticoCr</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T18:02:51.639Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:11:59.461Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>NForkCiticoCr</label_text>
+<label_text>NorthForkCiticoCreek</label_text>
 </label>
 </extensions>
 </wpt>
@@ -1640,25 +1629,24 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <wpt lat="35.38854000" lon="-83.96837000">
 <ele>1552.651</ele>
 <time>2017-11-29T01:24:12.533Z</time>
-<name>DeepCreekTr</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-29T01:24:47.024Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:09:53.873Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>DeepCreekTr</label_text>
+<label_text>DeepCreekTrail</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="35.38592960" lon="-83.96930666">
 <time>2017-11-29T01:46:54.232Z</time>
-<name>BMTHaoeN</name>
 <desc>Haoe Lead Trail #53.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:04:58.484Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMTHaoeN</label_text>
+<label_text>BMT~HaoeN</label_text>
 </label>
 </extensions>
 </wpt>
@@ -1945,11 +1933,11 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <ele>1093.622</ele>
 <time>2017-12-01T23:19:10.794Z</time>
 <name>SycamoreCrCampSpur</name>
-<desc>E to a small campsite near pristine Sycamore Creek.</desc>
+<desc>East to a small campsite near pristine Sycamore Creek.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:21:44.852Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:15:02.650Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>SycamoreCrCampSpur</label_text>
 </label>
@@ -2024,14 +2012,14 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 </extensions>
 </wpt>
 <wpt lat="35.27120000" lon="-84.13874000">
+<ele>714.000</ele>
 <time>2017-12-01T23:46:06.833Z</time>
-<name>BrookshireCr</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:49:17.813Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:05:39.647Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BrookshireCr</label_text>
+<label_text>BrookshireCreek714</label_text>
 </label>
 </extensions>
 </wpt>
@@ -2051,13 +2039,12 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <wpt lat="35.26507400" lon="-84.14024519">
 <ele>755.904</ele>
 <time>2017-12-01T23:49:32.757Z</time>
-<name>BrookshireCr2</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-01T23:50:18.003Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:05:54.226Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BrookshireCr2</label_text>
+<label_text>BrookshireCreek756</label_text>
 </label>
 </extensions>
 </wpt>
@@ -2077,40 +2064,38 @@ W 800' to Fontana Pitstop, a gas station convenience store.</desc>
 <wpt lat="35.24567000" lon="-84.13519000">
 <ele>1078.687</ele>
 <time>2017-12-02T00:13:11.451Z</time>
-<name>BrookshireCreek2</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:15:03.201Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:07:40.973Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BrookshireCreek2</label_text>
+<label_text>BrookshireCreek1079</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="35.24389000" lon="-84.12794000">
 <ele>1159.764</ele>
 <time>2017-12-02T00:28:09.336Z</time>
-<name>BMTBrookshireCrTrS</name>
-<desc>S junction of Brookshire Creek Trail No. 180 with the BMT.</desc>
+<desc>South junction of Brookshire Creek Trail No. 180 with the BMT.</desc>
 <sym>Summit</sym>
 <type>Summit</type>
 <extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:08:42.300Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMTBrookshireCrTrS</label_text>
+<label_text>BMT~BrookshireCrTrS</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="35.24105000" lon="-84.17629000">
 <ele>1030.834</ele>
 <time>2017-12-02T00:35:57.028Z</time>
-<name>BMT13508WA</name>
 <desc>Piped spring.</desc>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-12-02T00:41:17.552Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:04:22.597Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMT13508WA</label_text>
+<label_text>HazelnutKnobSpring</label_text>
 </label>
 </extensions>
 </wpt>

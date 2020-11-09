@@ -8,7 +8,7 @@
 </copyright>
 <bounds minlat="34.66672769" minlon="-84.52922030" maxlat="35.07733504" maxlon="-84.12419114"/>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:23:43.290Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:02:55.962Z</time>
 <active_point xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4" lat="34.78628000" lon="-84.30561000">
 </active_point>
 </extensions>
@@ -29,13 +29,12 @@
 <wpt lat="34.81938463" lon="-84.33933546">
 <ele>579.120</ele>
 <time>2012-01-16T15:46:23Z</time>
-<name>WeaverCrRd</name>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:08:09.193Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:02:55.962Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>WeaverCrRd</label_text>
+<label_text>WeaverCreekRd</label_text>
 </label>
 </extensions>
 </wpt>
@@ -215,13 +214,13 @@
 <wpt lat="34.78617381" lon="-84.31419151">
 <ele>807.720</ele>
 <time>2012-01-16T15:40:49Z</time>
-<name>BMTStanleyGapTr</name>
+<name>=</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:07:52.943Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T23:57:17.103Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMTStanleyGapTr</label_text>
+<label_text>BMT~StanleyGapTrail</label_text>
 </label>
 </extensions>
 </wpt>
@@ -360,17 +359,16 @@
 </label>
 </extensions>
 </wpt>
-<wpt lat="35.03502000" lon="-84.49803000">
+<wpt lat="35.03511486" lon="-84.49799513">
 <ele>692.211</ele>
 <time>2012-01-16T14:59:12Z</time>
-<name>BMTRoughCreekTrail</name>
 <desc>BMT joins Rough Creek Trail No. 70.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-25T22:56:46.790Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:00:51.442Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMTRoughCreekTrail</label_text>
+<label_text>BMT~RoughCreekTrail</label_text>
 </label>
 </extensions>
 </wpt>
@@ -417,27 +415,24 @@
 <wpt lat="34.80464695" lon="-84.32190675">
 <ele>967.740</ele>
 <time>2012-01-16T15:42:17Z</time>
-<name>BMTStanley</name>
-<desc>Stanley Gap Trail joins the BMT.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-26T01:17:06.050Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T23:59:20.692Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMTStanley</label_text>
+<label_text>BMT~StanleyGapTrailN</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="34.81063874" lon="-84.34629613">
 <ele>544.678</ele>
 <time>2012-01-16T15:47:23Z</time>
-<name>LaurelCr1</name>
 <sym>Bridge</sym>
 <type>Bridge</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:10:44.759Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:02:12.820Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>LaurelCr1</label_text>
+<label_text>LaurelCreek545</label_text>
 </label>
 </extensions>
 </wpt>
@@ -523,14 +518,13 @@
 <wpt lat="34.99756930" lon="-84.52218760">
 <ele>1232.580</ele>
 <time>2012-01-16T14:53:35Z</time>
-<name>BMTLicklogTrail</name>
-<desc>Licklog Trail No. 65 goes E.</desc>
+<desc>Licklog Trail Number 65 goes east.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:13:25.773Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T23:58:35.198Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMTLicklogTrail</label_text>
+<label_text>BMT~LicklogTrail</label_text>
 </label>
 </extensions>
 </wpt>
@@ -577,13 +571,12 @@
 <wpt lat="34.92418144" lon="-84.52414521">
 <ele>766.075</ele>
 <time>2012-01-16T14:50:50Z</time>
-<name>BMTJacksRiverTr</name>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:09:51.048Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T23:56:12.561Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMTJacksRiverTr</label_text>
+<label_text>BMT~JacksRiverTrail</label_text>
 </label>
 </extensions>
 </wpt>
@@ -751,26 +744,24 @@
 <wpt lat="34.73847422" lon="-84.16978053">
 <ele>615.964</ele>
 <time>2011-10-17T21:47:37Z</time>
-<name>BMTFS816</name>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T03:57:32.284Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T23:55:59.266Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMTFS816</label_text>
+<label_text>BMT~FS816</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="34.73548293" lon="-84.16608824">
 <ele>610.676</ele>
 <time>2011-10-18T12:24:24Z</time>
-<name>BMTFS333</name>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T03:56:45.841Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T23:55:28.061Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMTFS333</label_text>
+<label_text>BMT~FS333</label_text>
 </label>
 </extensions>
 </wpt>
@@ -803,14 +794,13 @@
 <wpt lat="35.01922984" lon="-84.51726565">
 <ele>1030.572</ele>
 <time>2012-01-16T14:56:21Z</time>
-<name>BMTForkRidgeTr</name>
-<desc>BMT joins Trail No. 69, 64.</desc>
+<desc>Trails Number 64 and 69.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:14:10.948Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T23:54:32.936Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMTForkRidgeTr</label_text>
+<label_text>BMT~ForkRidgeTrail</label_text>
 </label>
 </extensions>
 </wpt>
@@ -846,13 +836,12 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <wpt lat="34.79528848" lon="-84.24324131">
 <ele>574.272</ele>
 <time>2012-01-16T14:16:01Z</time>
-<name>BMTDialRd</name>
 <sym>Car</sym>
 <type>Road</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-08-23T20:56:54.654Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T23:54:18.703Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMTDialRd</label_text>
+<label_text>BMT~DialRoad</label_text>
 </label>
 </extensions>
 </wpt>
@@ -885,13 +874,12 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <wpt lat="34.81466720" lon="-84.36949740">
 <ele>480.060</ele>
 <time>2012-01-16T15:49:12Z</time>
-<name>CherryLogCr</name>
 <sym>Bridge</sym>
 <type>Bridge</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-09-25T16:03:30.801Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T23:55:46.731Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>CherryLogCr</label_text>
+<label_text>CherryLogCreek</label_text>
 </label>
 </extensions>
 </wpt>
@@ -1036,27 +1024,24 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <wpt lat="35.01193660" lon="-84.52385583">
 <ele>1096.822</ele>
 <time>2012-01-16T14:57:24Z</time>
-<name>BMTBigCrTr</name>
-<desc>Junction of the BMT and the Big Creek Trail</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:14:02.234Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T23:53:47.526Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMTBigCrTr</label_text>
+<label_text>BMT~BigCreekTrail</label_text>
 </label>
 </extensions>
 </wpt>
 <wpt lat="34.66779339" lon="-84.16938410">
 <ele>881.000</ele>
 <time>2016-08-23T18:25:52.670Z</time>
-<name>LongCr</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T03:53:08.648Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:01:26.574Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>LongCr</label_text>
+<label_text>LongCreek</label_text>
 </label>
 </extensions>
 </wpt>
@@ -1076,13 +1061,12 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <wpt lat="34.81016929" lon="-84.35251427">
 <ele>543.000</ele>
 <time>2016-08-23T21:22:22.976Z</time>
-<name>LaurelCr2</name>
 <sym>Water Source</sym>
 <type>Water</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:11:38.435Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:02:29.767Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>LaurelCr2</label_text>
+<label_text>LaurelCreek543</label_text>
 </label>
 </extensions>
 </wpt>
@@ -1298,14 +1282,13 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <wpt lat="34.95439471" lon="-84.52290533">
 <ele>936.000</ele>
 <time>2017-11-25T23:24:16.411Z</time>
-<name>BMTPenBranchTrail</name>
 <desc>Penitentiary Branch Trail goes west</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2019-03-29T19:22:52.721Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T23:59:46.142Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMTPenBranchTrail</label_text>
+<label_text>BMT~PenBranchTrail</label_text>
 </label>
 </extensions>
 </wpt>
@@ -1325,14 +1308,13 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <wpt lat="34.92483012" lon="-84.52396837">
 <ele>766.877</ele>
 <time>2017-11-25T23:29:08.255Z</time>
-<name>BMTJacksRiverTrN</name>
 <desc>BMT north junction with Jacks River Trail.</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T14:09:58.652Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-08T23:58:21.300Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
-<label_text>BMTJacksRiverTrN</label_text>
+<label_text>BMT~JacksRiverTrailN</label_text>
 </label>
 </extensions>
 </wpt>
@@ -1524,13 +1506,10 @@ Campsite. Sign for cherokee NF and Hemp Top Trail No. 145.</desc>
 <ele>607.771</ele>
 <time>2017-11-26T00:56:40.687Z</time>
 <name>JTTrail</name>
-<desc>"J.T.'s Trail
-1971-2001
-In memory of Joann Tiesler"</desc>
 <sym>Trail Head</sym>
 <type>Trail Junction</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2017-11-28T04:13:40.029Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:01:39.933Z</time>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>JTTrail</label_text>
 </label>
@@ -2036,7 +2015,7 @@ In memory of Joann Tiesler"</desc>
 <desc>good,n</desc>
 <type>Line</type>
 <extensions>
-<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-10-03T00:23:43.290Z</time>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2020-11-09T00:01:14.507Z</time>
 <override_color xmlns="http://www.topografix.com/GPX/Private/TopoGrafix/0/4">00ff00</override_color>
 <label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/4">
 <label_text>Benton MacKaye Trail</label_text>
@@ -32361,13 +32340,13 @@ In memory of Joann Tiesler"</desc>
 <trkpt lat="35.03494448" lon="-84.49814566">
 <ele>688.881</ele>
 </trkpt>
-<trkpt lat="35.03498419" lon="-84.49808665">
+<trkpt lat="35.03501728" lon="-84.49804373">
 <ele>687.601</ele>
 </trkpt>
-<trkpt lat="35.03505920" lon="-84.49805446">
+<trkpt lat="35.03512097" lon="-84.49799009">
 <ele>686.968</ele>
 </trkpt>
-<trkpt lat="35.03508126" lon="-84.49812420">
+<trkpt lat="35.03513641" lon="-84.49813493">
 <ele>687.557</ele>
 </trkpt>
 <trkpt lat="35.03509008" lon="-84.49823149">
